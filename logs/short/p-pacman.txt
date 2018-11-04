@@ -1,0 +1,82 @@
+OPTION: 'environment' = 'pacman'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '5000'
+OPTION: 'parallel-worlds' = '1'
+cycle: 1
+average reward: 0
+explore rate: 0
+history size: 26
+cycle: 2
+average reward: 505.5
+explore rate: 0
+history size: 52
+cycle: 4
+average reward: 753.25
+explore rate: 0
+history size: 104
+cycle: 8
+average reward: 878.375
+explore rate: 0
+history size: 208
+cycle: 16
+average reward: 940.312
+explore rate: 0
+history size: 416
+cycle: 32
+average reward: 969.094
+explore rate: 0
+history size: 832
+cycle: 64
+average reward: 985.984
+explore rate: 0
+history size: 1664
+cycle: 128
+average reward: 994.43
+explore rate: 0
+history size: 3328
+cycle: 256
+average reward: 998.496
+explore rate: 0
+history size: 6656
+cycle: 512
+average reward: 1001.02
+explore rate: 0
+history size: 13312
+cycle: 1024
+average reward: 1002.33
+explore rate: 0
+history size: 26624
+cycle: 1536
+average reward: 1002.91
+explore rate: 0
+history size: 39936
+cycle: 2048
+average reward: 1003.42
+explore rate: 0
+history size: 53248
+cycle: 2560
+average reward: 1003.28
+explore rate: 0
+history size: 66560
+cycle: 3072
+average reward: 1003.34
+explore rate: 0
+history size: 79872
+cycle: 3584
+average reward: 1003.27
+explore rate: 0
+history size: 93184
+cycle: 4096
+average reward: 1003.2
+explore rate: 0
+history size: 106496
+cycle: 4608
+average reward: 1003.37
+explore rate: 0
+history size: 119808
+
+
+SUMMARY
+agent lifetime: 5001
+average reward: 1003.36

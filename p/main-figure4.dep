@@ -1,0 +1,7 @@
+main-figure4.pdf: ../logs/shorter-8/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-16/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-32/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-64/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-128/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-256/95d-1dmaze.csv
+main-figure4.pdf: ../logs/shorter-512/95d-1dmaze.csv

@@ -1,0 +1,5 @@
+
+edit 
+	main_memory = 10000000 % can't be too large
+
+sudo fmtutil-sys --all

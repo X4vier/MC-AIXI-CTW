@@ -1,0 +1,51 @@
+OPTION: 'environment' = 'cheese-maze'
+OPTION: 'exploration' = '0.1'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '1000'
+OPTION: 'ct-depth' = '8'
+OPTION: 'agent-horizon' = '3'
+cycle: 1
+average reward: 0
+explore rate: 0.1
+history size: 11
+cycle: 2
+average reward: 4.5
+explore rate: 0.1
+history size: 22
+cycle: 4
+average reward: 6.75
+explore rate: 0.1
+history size: 44
+cycle: 8
+average reward: 6.75
+explore rate: 0.1
+history size: 88
+cycle: 16
+average reward: 6.1875
+explore rate: 0.1
+history size: 176
+cycle: 32
+average reward: 5.0625
+explore rate: 0.1
+history size: 352
+cycle: 64
+average reward: 4.92188
+explore rate: 0.1
+history size: 704
+cycle: 128
+average reward: 4.85156
+explore rate: 0.1
+history size: 1408
+cycle: 256
+average reward: 4.04297
+explore rate: 0.1
+history size: 2816
+cycle: 512
+average reward: 4.23633
+explore rate: 0.1
+history size: 5632
+
+
+SUMMARY
+agent lifetime: 1001
+average reward: 4.26174

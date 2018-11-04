@@ -1,0 +1,87 @@
+OPTION: 'environment' = 'cheese-maze'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '0.98'
+OPTION: 'terminate-lifetime' = '10000'
+OPTION: 'ct-depth' = '8'
+OPTION: 'agent-horizon' = '2'
+OPTION: 'parallel-worlds' = '1'
+cycle: 1
+average reward: 0
+explore rate: 1
+history size: 11
+cycle: 2
+average reward: 9
+explore rate: 0.98
+history size: 22
+cycle: 4
+average reward: 9
+explore rate: 0.941192
+history size: 44
+cycle: 8
+average reward: 5.14286
+explore rate: 0.868126
+history size: 88
+cycle: 16
+average reward: 6
+explore rate: 0.738569
+history size: 176
+cycle: 32
+average reward: 5.22581
+explore rate: 0.534575
+history size: 352
+cycle: 64
+average reward: 5.46032
+explore rate: 0.280055
+history size: 704
+cycle: 128
+average reward: 4.62205
+explore rate: 0.076862
+history size: 1408
+cycle: 256
+average reward: 4.53333
+explore rate: 0.00578961
+history size: 2816
+cycle: 512
+average reward: 4.5773
+explore rate: 3.28492e-05
+history size: 5632
+cycle: 1024
+average reward: 4.53568
+explore rate: 1.05749e-09
+history size: 11264
+cycle: 1536
+average reward: 4.5127
+explore rate: 3.40429e-14
+history size: 16896
+cycle: 2048
+average reward: 4.41329
+explore rate: 1.09592e-18
+history size: 22528
+cycle: 2560
+average reward: 4.4025
+explore rate: 3.52799e-23
+history size: 28160
+cycle: 3072
+average reward: 4.39238
+explore rate: 1.13574e-27
+history size: 33792
+cycle: 3584
+average reward: 4.47083
+explore rate: 3.65619e-32
+history size: 39424
+cycle: 4096
+average reward: 4.41978
+explore rate: 1.17701e-36
+history size: 45056
+cycle: 4608
+average reward: 4.43065
+explore rate: 3.78905e-41
+history size: 50688
+cycle: 5120
+average reward: 4.42254
+explore rate: 1.21978e-45
+history size: 56320
+cycle: 5632
+average reward: 4.4271
+explore rate: 3.92674e-50
+history size: 61952

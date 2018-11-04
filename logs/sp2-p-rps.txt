@@ -1,0 +1,204 @@
+OPTION: 'environment' = 'biased-rock-paper-scissor'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '0.95'
+OPTION: 'terminate-lifetime' = '20000'
+OPTION: 'ct-depth' = '4'
+OPTION: 'agent-horizon' = '2'
+OPTION: 'parallel-worlds' = '1'
+cycle: 1
+average reward: 0
+explore rate: 1
+history size: 6
+cycle: 2
+average reward: 0
+explore rate: 0.95
+history size: 12
+cycle: 4
+average reward: 0.666667
+explore rate: 0.857375
+history size: 24
+cycle: 8
+average reward: 1.28571
+explore rate: 0.698337
+history size: 48
+cycle: 16
+average reward: 1.26667
+explore rate: 0.463291
+history size: 96
+cycle: 32
+average reward: 1.16129
+explore rate: 0.203907
+history size: 192
+cycle: 64
+average reward: 1.09524
+explore rate: 0.0394991
+history size: 384
+cycle: 128
+average reward: 1.07874
+explore rate: 0.00148217
+history size: 768
+cycle: 256
+average reward: 1.08627
+explore rate: 2.08699e-06
+history size: 1536
+cycle: 512
+average reward: 1.07241
+explore rate: 4.13773e-12
+history size: 3072
+cycle: 1024
+average reward: 1.09286
+explore rate: 1.62648e-23
+history size: 6144
+cycle: 1536
+average reward: 1.10358
+explore rate: 6.39343e-35
+history size: 9216
+cycle: 2048
+average reward: 1.10357
+explore rate: 2.51316e-46
+history size: 12288
+cycle: 2560
+average reward: 1.10277
+explore rate: 9.87884e-58
+history size: 15360
+cycle: 3072
+average reward: 1.09899
+explore rate: 3.88322e-69
+history size: 18432
+cycle: 3584
+average reward: 1.1055
+explore rate: 1.52643e-80
+history size: 21504
+cycle: 4096
+average reward: 1.10403
+explore rate: 6.00017e-92
+history size: 24576
+cycle: 4608
+average reward: 1.09312
+explore rate: 2.35857e-103
+history size: 27648
+cycle: 5120
+average reward: 1.09318
+explore rate: 9.27119e-115
+history size: 30720
+cycle: 5632
+average reward: 1.09483
+explore rate: 3.64436e-126
+history size: 33792
+cycle: 6144
+average reward: 1.09409
+explore rate: 1.43254e-137
+history size: 36864
+cycle: 6656
+average reward: 1.09361
+explore rate: 5.6311e-149
+history size: 39936
+cycle: 7168
+average reward: 1.09362
+explore rate: 2.2135e-160
+history size: 43008
+cycle: 7680
+average reward: 1.09025
+explore rate: 8.70092e-172
+history size: 46080
+cycle: 8192
+average reward: 1.08888
+explore rate: 3.4202e-183
+history size: 49152
+cycle: 8704
+average reward: 1.0856
+explore rate: 1.34443e-194
+history size: 52224
+cycle: 9216
+average reward: 1.08616
+explore rate: 5.28473e-206
+history size: 55296
+cycle: 9728
+average reward: 1.07885
+explore rate: 2.07735e-217
+history size: 58368
+cycle: 10240
+average reward: 1.07774
+explore rate: 8.16572e-229
+history size: 61440
+cycle: 10752
+average reward: 1.07683
+explore rate: 3.20982e-240
+history size: 64512
+cycle: 11264
+average reward: 1.07431
+explore rate: 1.26173e-251
+history size: 67584
+cycle: 11776
+average reward: 1.07295
+explore rate: 4.95966e-263
+history size: 70656
+cycle: 12288
+average reward: 1.07227
+explore rate: 1.94957e-274
+history size: 73728
+cycle: 12800
+average reward: 1.07079
+explore rate: 7.66345e-286
+history size: 76800
+cycle: 13312
+average reward: 1.07084
+explore rate: 3.01238e-297
+history size: 79872
+cycle: 13824
+average reward: 1.06916
+explore rate: 1.18412e-308
+history size: 82944
+cycle: 14336
+average reward: 1.06892
+explore rate: 4.6541e-320
+history size: 86016
+cycle: 14848
+average reward: 1.07038
+explore rate: 4.44659e-323
+history size: 89088
+cycle: 15360
+average reward: 1.07129
+explore rate: 4.44659e-323
+history size: 92160
+cycle: 15872
+average reward: 1.07126
+explore rate: 4.44659e-323
+history size: 95232
+cycle: 16384
+average reward: 1.07166
+explore rate: 4.44659e-323
+history size: 98304
+cycle: 16896
+average reward: 1.07073
+explore rate: 4.44659e-323
+history size: 101376
+cycle: 17408
+average reward: 1.07072
+explore rate: 4.44659e-323
+history size: 104448
+cycle: 17920
+average reward: 1.07244
+explore rate: 4.44659e-323
+history size: 107520
+cycle: 18432
+average reward: 1.072
+explore rate: 4.44659e-323
+history size: 110592
+cycle: 18944
+average reward: 1.07206
+explore rate: 4.44659e-323
+history size: 113664
+cycle: 19456
+average reward: 1.07242
+explore rate: 4.44659e-323
+history size: 116736
+cycle: 19968
+average reward: 1.07257
+explore rate: 4.44659e-323
+history size: 119808
+
+
+SUMMARY
+agent lifetime: 20001
+average reward: 1.07275

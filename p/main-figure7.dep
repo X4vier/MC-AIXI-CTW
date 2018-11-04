@@ -1,0 +1,5 @@
+main-figure7.pdf: ../logs/short/o-cheesemaze.csv
+main-figure7.pdf: ../logs/short/r-cheesemaze.csv
+main-figure7.pdf: ../logs/short/0.1-cheesemaze.csv
+main-figure7.pdf: ../logs/short/95d-cheesemaze.csv
+main-figure7.pdf: ../logs/short/p-cheesemaze.csv

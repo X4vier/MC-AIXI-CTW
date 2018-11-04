@@ -1,0 +1,582 @@
+OPTION: 'environment' = 'biased-rock-paper-scissor'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '0.95'
+OPTION: 'terminate-lifetime' = '100000'
+OPTION: 'ct-depth' = '12'
+OPTION: 'agent-horizon' = '1'
+cycle: 1
+average reward: 0
+explore rate: 1
+history size: 6
+cycle: 2
+average reward: 0
+explore rate: 0.95
+history size: 12
+cycle: 4
+average reward: 0.666667
+explore rate: 0.857375
+history size: 24
+cycle: 8
+average reward: 1
+explore rate: 0.698337
+history size: 48
+cycle: 16
+average reward: 1.06667
+explore rate: 0.463291
+history size: 96
+cycle: 32
+average reward: 1.06452
+explore rate: 0.203907
+history size: 192
+cycle: 64
+average reward: 1.04762
+explore rate: 0.0394991
+history size: 384
+cycle: 128
+average reward: 1.03937
+explore rate: 0.00148217
+history size: 768
+cycle: 256
+average reward: 1.05098
+explore rate: 2.08699e-06
+history size: 1536
+cycle: 512
+average reward: 1.0411
+explore rate: 4.13773e-12
+history size: 3072
+cycle: 1024
+average reward: 1.0303
+explore rate: 1.62648e-23
+history size: 6144
+cycle: 1536
+average reward: 1.05733
+explore rate: 6.39343e-35
+history size: 9216
+cycle: 2048
+average reward: 1.0679
+explore rate: 2.51316e-46
+history size: 12288
+cycle: 2560
+average reward: 1.07816
+explore rate: 9.87884e-58
+history size: 15360
+cycle: 3072
+average reward: 1.07489
+explore rate: 3.88322e-69
+history size: 18432
+cycle: 3584
+average reward: 1.07284
+explore rate: 1.52643e-80
+history size: 21504
+cycle: 4096
+average reward: 1.07082
+explore rate: 6.00017e-92
+history size: 24576
+cycle: 4608
+average reward: 1.06968
+explore rate: 2.35857e-103
+history size: 27648
+cycle: 5120
+average reward: 1.06994
+explore rate: 9.27119e-115
+history size: 30720
+cycle: 5632
+average reward: 1.06695
+explore rate: 3.64436e-126
+history size: 33792
+cycle: 6144
+average reward: 1.06984
+explore rate: 1.43254e-137
+history size: 36864
+cycle: 6656
+average reward: 1.07137
+explore rate: 5.6311e-149
+history size: 39936
+cycle: 7168
+average reward: 1.07325
+explore rate: 2.2135e-160
+history size: 43008
+cycle: 7680
+average reward: 1.07787
+explore rate: 8.70092e-172
+history size: 46080
+cycle: 8192
+average reward: 1.07887
+explore rate: 3.4202e-183
+history size: 49152
+cycle: 8704
+average reward: 1.07836
+explore rate: 1.34443e-194
+history size: 52224
+cycle: 9216
+average reward: 1.07889
+explore rate: 5.28473e-206
+history size: 55296
+cycle: 9728
+average reward: 1.08009
+explore rate: 2.07735e-217
+history size: 58368
+cycle: 10240
+average reward: 1.08292
+explore rate: 8.16572e-229
+history size: 61440
+cycle: 10752
+average reward: 1.08362
+explore rate: 3.20982e-240
+history size: 64512
+cycle: 11264
+average reward: 1.08541
+explore rate: 1.26173e-251
+history size: 67584
+cycle: 11776
+average reward: 1.0845
+explore rate: 4.95966e-263
+history size: 70656
+cycle: 12288
+average reward: 1.08635
+explore rate: 1.94957e-274
+history size: 73728
+cycle: 12800
+average reward: 1.08454
+explore rate: 7.66345e-286
+history size: 76800
+cycle: 13312
+average reward: 1.08384
+explore rate: 3.01238e-297
+history size: 79872
+cycle: 13824
+average reward: 1.08348
+explore rate: 1.18412e-308
+history size: 82944
+cycle: 14336
+average reward: 1.08343
+explore rate: 4.6541e-320
+history size: 86016
+cycle: 14848
+average reward: 1.08439
+explore rate: 4.44659e-323
+history size: 89088
+cycle: 15360
+average reward: 1.08555
+explore rate: 4.44659e-323
+history size: 92160
+cycle: 15872
+average reward: 1.08619
+explore rate: 4.44659e-323
+history size: 95232
+cycle: 16384
+average reward: 1.0868
+explore rate: 4.44659e-323
+history size: 98304
+cycle: 16896
+average reward: 1.0873
+explore rate: 4.44659e-323
+history size: 101376
+cycle: 17408
+average reward: 1.08904
+explore rate: 4.44659e-323
+history size: 104448
+cycle: 17920
+average reward: 1.08996
+explore rate: 4.44659e-323
+history size: 107520
+cycle: 18432
+average reward: 1.09131
+explore rate: 4.44659e-323
+history size: 110592
+cycle: 18944
+average reward: 1.09312
+explore rate: 4.44659e-323
+history size: 113664
+cycle: 19456
+average reward: 1.0955
+explore rate: 4.44659e-323
+history size: 116736
+cycle: 19968
+average reward: 1.09551
+explore rate: 4.44659e-323
+history size: 119808
+cycle: 20480
+average reward: 1.09683
+explore rate: 4.44659e-323
+history size: 122880
+cycle: 20992
+average reward: 1.09785
+explore rate: 4.44659e-323
+history size: 125952
+cycle: 21504
+average reward: 1.09734
+explore rate: 4.44659e-323
+history size: 129024
+cycle: 22016
+average reward: 1.09757
+explore rate: 4.44659e-323
+history size: 132096
+cycle: 22528
+average reward: 1.09739
+explore rate: 4.44659e-323
+history size: 135168
+cycle: 23040
+average reward: 1.09857
+explore rate: 4.44659e-323
+history size: 138240
+cycle: 23552
+average reward: 1.10072
+explore rate: 4.44659e-323
+history size: 141312
+cycle: 24064
+average reward: 1.10111
+explore rate: 4.44659e-323
+history size: 144384
+cycle: 24576
+average reward: 1.10087
+explore rate: 4.44659e-323
+history size: 147456
+cycle: 25088
+average reward: 1.10061
+explore rate: 4.44659e-323
+history size: 150528
+cycle: 25600
+average reward: 1.09993
+explore rate: 4.44659e-323
+history size: 153600
+cycle: 26112
+average reward: 1.10115
+explore rate: 4.44659e-323
+history size: 156672
+cycle: 26624
+average reward: 1.10175
+explore rate: 4.44659e-323
+history size: 159744
+cycle: 27136
+average reward: 1.10286
+explore rate: 4.44659e-323
+history size: 162816
+cycle: 27648
+average reward: 1.1028
+explore rate: 4.44659e-323
+history size: 165888
+cycle: 28160
+average reward: 1.10334
+explore rate: 4.44659e-323
+history size: 168960
+cycle: 28672
+average reward: 1.10321
+explore rate: 4.44659e-323
+history size: 172032
+cycle: 29184
+average reward: 1.10301
+explore rate: 4.44659e-323
+history size: 175104
+cycle: 29696
+average reward: 1.10308
+explore rate: 4.44659e-323
+history size: 178176
+cycle: 30208
+average reward: 1.10345
+explore rate: 4.44659e-323
+history size: 181248
+cycle: 30720
+average reward: 1.10358
+explore rate: 4.44659e-323
+history size: 184320
+cycle: 31232
+average reward: 1.10438
+explore rate: 4.44659e-323
+history size: 187392
+cycle: 31744
+average reward: 1.10516
+explore rate: 4.44659e-323
+history size: 190464
+cycle: 32256
+average reward: 1.10569
+explore rate: 4.44659e-323
+history size: 193536
+cycle: 32768
+average reward: 1.10535
+explore rate: 4.44659e-323
+history size: 196608
+cycle: 33280
+average reward: 1.10604
+explore rate: 4.44659e-323
+history size: 199680
+cycle: 33792
+average reward: 1.10612
+explore rate: 4.44659e-323
+history size: 202752
+cycle: 34304
+average reward: 1.10638
+explore rate: 4.44659e-323
+history size: 205824
+cycle: 34816
+average reward: 1.10705
+explore rate: 4.44659e-323
+history size: 208896
+cycle: 35328
+average reward: 1.10774
+explore rate: 4.44659e-323
+history size: 211968
+cycle: 35840
+average reward: 1.10826
+explore rate: 4.44659e-323
+history size: 215040
+cycle: 36352
+average reward: 1.10828
+explore rate: 4.44659e-323
+history size: 218112
+cycle: 36864
+average reward: 1.10797
+explore rate: 4.44659e-323
+history size: 221184
+cycle: 37376
+average reward: 1.10887
+explore rate: 4.44659e-323
+history size: 224256
+cycle: 37888
+average reward: 1.1093
+explore rate: 4.44659e-323
+history size: 227328
+cycle: 38400
+average reward: 1.10935
+explore rate: 4.44659e-323
+history size: 230400
+cycle: 38912
+average reward: 1.10984
+explore rate: 4.44659e-323
+history size: 233472
+cycle: 39424
+average reward: 1.11034
+explore rate: 4.44659e-323
+history size: 236544
+cycle: 39936
+average reward: 1.11063
+explore rate: 4.44659e-323
+history size: 239616
+cycle: 40448
+average reward: 1.11059
+explore rate: 4.44659e-323
+history size: 242688
+cycle: 40960
+average reward: 1.11145
+explore rate: 4.44659e-323
+history size: 245760
+cycle: 41472
+average reward: 1.11205
+explore rate: 4.44659e-323
+history size: 248832
+cycle: 41984
+average reward: 1.11236
+explore rate: 4.44659e-323
+history size: 251904
+cycle: 42496
+average reward: 1.11253
+explore rate: 4.44659e-323
+history size: 254976
+cycle: 43008
+average reward: 1.11303
+explore rate: 4.44659e-323
+history size: 258048
+cycle: 43520
+average reward: 1.11324
+explore rate: 4.44659e-323
+history size: 261120
+cycle: 44032
+average reward: 1.11387
+explore rate: 4.44659e-323
+history size: 264192
+cycle: 44544
+average reward: 1.11416
+explore rate: 4.44659e-323
+history size: 267264
+cycle: 45056
+average reward: 1.11477
+explore rate: 4.44659e-323
+history size: 270336
+cycle: 45568
+average reward: 1.11539
+explore rate: 4.44659e-323
+history size: 273408
+cycle: 46080
+average reward: 1.11597
+explore rate: 4.44659e-323
+history size: 276480
+cycle: 46592
+average reward: 1.11631
+explore rate: 4.44659e-323
+history size: 279552
+cycle: 47104
+average reward: 1.11621
+explore rate: 4.44659e-323
+history size: 282624
+cycle: 47616
+average reward: 1.11631
+explore rate: 4.44659e-323
+history size: 285696
+cycle: 48128
+average reward: 1.1163
+explore rate: 4.44659e-323
+history size: 288768
+cycle: 48640
+average reward: 1.11684
+explore rate: 4.44659e-323
+history size: 291840
+cycle: 49152
+average reward: 1.11764
+explore rate: 4.44659e-323
+history size: 294912
+cycle: 49664
+average reward: 1.11828
+explore rate: 4.44659e-323
+history size: 297984
+cycle: 50176
+average reward: 1.11853
+explore rate: 4.44659e-323
+history size: 301056
+cycle: 50688
+average reward: 1.11851
+explore rate: 4.44659e-323
+history size: 304128
+cycle: 51200
+average reward: 1.11811
+explore rate: 4.44659e-323
+history size: 307200
+cycle: 51712
+average reward: 1.11794
+explore rate: 4.44659e-323
+history size: 310272
+cycle: 52224
+average reward: 1.11807
+explore rate: 4.44659e-323
+history size: 313344
+cycle: 52736
+average reward: 1.11802
+explore rate: 4.44659e-323
+history size: 316416
+cycle: 53248
+average reward: 1.11798
+explore rate: 4.44659e-323
+history size: 319488
+cycle: 53760
+average reward: 1.11821
+explore rate: 4.44659e-323
+history size: 322560
+cycle: 54272
+average reward: 1.11881
+explore rate: 4.44659e-323
+history size: 325632
+cycle: 54784
+average reward: 1.11934
+explore rate: 4.44659e-323
+history size: 328704
+cycle: 55296
+average reward: 1.11974
+explore rate: 4.44659e-323
+history size: 331776
+cycle: 55808
+average reward: 1.11981
+explore rate: 4.44659e-323
+history size: 334848
+cycle: 56320
+average reward: 1.12023
+explore rate: 4.44659e-323
+history size: 337920
+cycle: 56832
+average reward: 1.12
+explore rate: 4.44659e-323
+history size: 340992
+cycle: 57344
+average reward: 1.12071
+explore rate: 4.44659e-323
+history size: 344064
+cycle: 57856
+average reward: 1.12099
+explore rate: 4.44659e-323
+history size: 347136
+cycle: 58368
+average reward: 1.12115
+explore rate: 4.44659e-323
+history size: 350208
+cycle: 58880
+average reward: 1.1214
+explore rate: 4.44659e-323
+history size: 353280
+cycle: 59392
+average reward: 1.12137
+explore rate: 4.44659e-323
+history size: 356352
+cycle: 59904
+average reward: 1.12151
+explore rate: 4.44659e-323
+history size: 359424
+cycle: 60416
+average reward: 1.12176
+explore rate: 4.44659e-323
+history size: 362496
+cycle: 60928
+average reward: 1.12175
+explore rate: 4.44659e-323
+history size: 365568
+cycle: 61440
+average reward: 1.12201
+explore rate: 4.44659e-323
+history size: 368640
+cycle: 61952
+average reward: 1.12213
+explore rate: 4.44659e-323
+history size: 371712
+cycle: 62464
+average reward: 1.12238
+explore rate: 4.44659e-323
+history size: 374784
+cycle: 62976
+average reward: 1.12206
+explore rate: 4.44659e-323
+history size: 377856
+cycle: 63488
+average reward: 1.12237
+explore rate: 4.44659e-323
+history size: 380928
+cycle: 64000
+average reward: 1.12239
+explore rate: 4.44659e-323
+history size: 384000
+cycle: 64512
+average reward: 1.12246
+explore rate: 4.44659e-323
+history size: 387072
+cycle: 65024
+average reward: 1.12282
+explore rate: 4.44659e-323
+history size: 390144
+cycle: 65536
+average reward: 1.12319
+explore rate: 4.44659e-323
+history size: 393216
+cycle: 66048
+average reward: 1.1234
+explore rate: 4.44659e-323
+history size: 396288
+cycle: 66560
+average reward: 1.12388
+explore rate: 4.44659e-323
+history size: 399360
+cycle: 67072
+average reward: 1.12369
+explore rate: 4.44659e-323
+history size: 402432
+cycle: 67584
+average reward: 1.12352
+explore rate: 4.44659e-323
+history size: 405504
+cycle: 68096
+average reward: 1.12374
+explore rate: 4.44659e-323
+history size: 408576
+cycle: 68608
+average reward: 1.124
+explore rate: 4.44659e-323
+history size: 411648
+cycle: 69120
+average reward: 1.12384
+explore rate: 4.44659e-323
+history size: 414720

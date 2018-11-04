@@ -1,0 +1,43 @@
+OPTION: 'environment' = 'tictactoe'
+OPTION: 'exploration' = '0.1'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '200'
+OPTION: 'ct-depth' = '128'
+OPTION: 'agent-horizon' = '7'
+cycle: 1
+average reward: 0
+explore rate: 0.1
+history size: 25
+cycle: 2
+average reward: 0
+explore rate: 0.1
+history size: 50
+cycle: 4
+average reward: 0
+explore rate: 0.1
+history size: 100
+cycle: 8
+average reward: 0
+explore rate: 0.1
+history size: 200
+cycle: 16
+average reward: 0.3125
+explore rate: 0.1
+history size: 400
+cycle: 32
+average reward: 0.34375
+explore rate: 0.1
+history size: 800
+cycle: 64
+average reward: 0.546875
+explore rate: 0.1
+history size: 1600
+cycle: 128
+average reward: 0.953125
+explore rate: 0.1
+history size: 3200
+
+
+SUMMARY
+agent lifetime: 201
+average reward: 0.820896

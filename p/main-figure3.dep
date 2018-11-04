@@ -1,0 +1,5 @@
+main-figure3.pdf: ../logs/short/o-1dmaze.csv
+main-figure3.pdf: ../logs/short/r-1dmaze.csv
+main-figure3.pdf: ../logs/short/0.1-1dmaze.csv
+main-figure3.pdf: ../logs/short/95d-1dmaze.csv
+main-figure3.pdf: ../logs/short/p-1dmaze.csv

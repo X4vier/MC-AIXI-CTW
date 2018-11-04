@@ -1,0 +1,6 @@
+main-figure1.pdf: ../logs/short/o-coinflip.csv
+main-figure1.pdf: ../logs/short/r-coinflip.csv
+main-figure1.pdf: ../logs/short/0.1-coinflip.csv
+main-figure1.pdf: ../logs/short/95d-coinflip.csv
+main-figure1.pdf: ../logs/short/p-coinflip.csv
+main-figure1.pdf: ../logs/sp1-coinflip.csv

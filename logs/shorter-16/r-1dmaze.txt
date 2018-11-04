@@ -1,0 +1,53 @@
+OPTION: 'environment' = '1d-maze'
+OPTION: 'size' = '4'
+OPTION: 'goal-cell' = '3'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '1000'
+OPTION: 'ct-depth' = '16'
+OPTION: 'agent-horizon' = '4'
+cycle: 1
+average reward: 1
+explore rate: 1
+history size: 3
+cycle: 2
+average reward: 0.5
+explore rate: 1
+history size: 6
+cycle: 4
+average reward: 0.25
+explore rate: 1
+history size: 12
+cycle: 8
+average reward: 0.25
+explore rate: 1
+history size: 24
+cycle: 16
+average reward: 0.25
+explore rate: 1
+history size: 48
+cycle: 32
+average reward: 0.21875
+explore rate: 1
+history size: 96
+cycle: 64
+average reward: 0.171875
+explore rate: 1
+history size: 192
+cycle: 128
+average reward: 0.195312
+explore rate: 1
+history size: 384
+cycle: 256
+average reward: 0.25
+explore rate: 1
+history size: 768
+cycle: 512
+average reward: 0.259766
+explore rate: 1
+history size: 1536
+
+
+SUMMARY
+agent lifetime: 1001
+average reward: 0.247752

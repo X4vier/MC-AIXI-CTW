@@ -1,0 +1,82 @@
+OPTION: 'environment' = 'cheese-maze'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '5000'
+OPTION: 'parallel-worlds' = '1'
+cycle: 1
+average reward: 0
+explore rate: 0
+history size: 11
+cycle: 2
+average reward: 4.5
+explore rate: 0
+history size: 22
+cycle: 4
+average reward: 2.25
+explore rate: 0
+history size: 44
+cycle: 8
+average reward: 1.125
+explore rate: 0
+history size: 88
+cycle: 16
+average reward: 3.375
+explore rate: 0
+history size: 176
+cycle: 32
+average reward: 2.8125
+explore rate: 0
+history size: 352
+cycle: 64
+average reward: 3.65625
+explore rate: 0
+history size: 704
+cycle: 128
+average reward: 4.07812
+explore rate: 0
+history size: 1408
+cycle: 256
+average reward: 4.41406
+explore rate: 0
+history size: 2816
+cycle: 512
+average reward: 4.30273
+explore rate: 0
+history size: 5632
+cycle: 1024
+average reward: 4.39941
+explore rate: 0
+history size: 11264
+cycle: 1536
+average reward: 4.41927
+explore rate: 0
+history size: 16896
+cycle: 2048
+average reward: 4.41113
+explore rate: 0
+history size: 22528
+cycle: 2560
+average reward: 4.44219
+explore rate: 0
+history size: 28160
+cycle: 3072
+average reward: 4.4056
+explore rate: 0
+history size: 33792
+cycle: 3584
+average reward: 4.32254
+explore rate: 0
+history size: 39424
+cycle: 4096
+average reward: 4.35181
+explore rate: 0
+history size: 45056
+cycle: 4608
+average reward: 4.37934
+explore rate: 0
+history size: 50688
+
+
+SUMMARY
+agent lifetime: 5001
+average reward: 4.38712

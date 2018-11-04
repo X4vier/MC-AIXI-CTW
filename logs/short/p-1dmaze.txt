@@ -1,0 +1,84 @@
+OPTION: 'environment' = '1d-maze'
+OPTION: 'size' = '4'
+OPTION: 'goal-cell' = '3'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '5000'
+OPTION: 'parallel-worlds' = '1'
+cycle: 1
+average reward: 1
+explore rate: 0
+history size: 3
+cycle: 2
+average reward: 0.5
+explore rate: 0
+history size: 6
+cycle: 4
+average reward: 0.5
+explore rate: 0
+history size: 12
+cycle: 8
+average reward: 0.25
+explore rate: 0
+history size: 24
+cycle: 16
+average reward: 0.3125
+explore rate: 0
+history size: 48
+cycle: 32
+average reward: 0.25
+explore rate: 0
+history size: 96
+cycle: 64
+average reward: 0.234375
+explore rate: 0
+history size: 192
+cycle: 128
+average reward: 0.359375
+explore rate: 0
+history size: 384
+cycle: 256
+average reward: 0.21875
+explore rate: 0
+history size: 768
+cycle: 512
+average reward: 0.144531
+explore rate: 0
+history size: 1536
+cycle: 1024
+average reward: 0.317383
+explore rate: 0
+history size: 3072
+cycle: 1536
+average reward: 0.378255
+explore rate: 0
+history size: 4608
+cycle: 2048
+average reward: 0.383789
+explore rate: 0
+history size: 6144
+cycle: 2560
+average reward: 0.307031
+explore rate: 0
+history size: 7680
+cycle: 3072
+average reward: 0.255859
+explore rate: 0
+history size: 9216
+cycle: 3584
+average reward: 0.219308
+explore rate: 0
+history size: 10752
+cycle: 4096
+average reward: 0.191895
+explore rate: 0
+history size: 12288
+cycle: 4608
+average reward: 0.170573
+explore rate: 0
+history size: 13824
+
+
+SUMMARY
+agent lifetime: 5001
+average reward: 0.157169

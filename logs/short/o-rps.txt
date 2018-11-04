@@ -1,0 +1,81 @@
+OPTION: 'environment' = 'biased-rock-paper-scissor'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '5000'
+cycle: 1
+average reward: 0
+explore rate: 0
+history size: 6
+cycle: 2
+average reward: 0
+explore rate: 0
+history size: 12
+cycle: 4
+average reward: 1
+explore rate: 0
+history size: 24
+cycle: 8
+average reward: 1
+explore rate: 0
+history size: 48
+cycle: 16
+average reward: 0.9375
+explore rate: 0
+history size: 96
+cycle: 32
+average reward: 0.96875
+explore rate: 0
+history size: 192
+cycle: 64
+average reward: 1.10938
+explore rate: 0
+history size: 384
+cycle: 128
+average reward: 1.05469
+explore rate: 0
+history size: 768
+cycle: 256
+average reward: 1.05859
+explore rate: 0
+history size: 1536
+cycle: 512
+average reward: 1.11328
+explore rate: 0
+history size: 3072
+cycle: 1024
+average reward: 1.0957
+explore rate: 0
+history size: 6144
+cycle: 1536
+average reward: 1.0918
+explore rate: 0
+history size: 9216
+cycle: 2048
+average reward: 1.09033
+explore rate: 0
+history size: 12288
+cycle: 2560
+average reward: 1.08984
+explore rate: 0
+history size: 15360
+cycle: 3072
+average reward: 1.08464
+explore rate: 0
+history size: 18432
+cycle: 3584
+average reward: 1.08315
+explore rate: 0
+history size: 21504
+cycle: 4096
+average reward: 1.08008
+explore rate: 0
+history size: 24576
+cycle: 4608
+average reward: 1.07812
+explore rate: 0
+history size: 27648
+
+
+SUMMARY
+agent lifetime: 5001
+average reward: 1.07538

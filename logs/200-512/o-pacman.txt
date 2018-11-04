@@ -1,0 +1,26 @@
+OPTION: 'environment' = 'pacman'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '200'
+OPTION: 'ct-depth' = '512'
+OPTION: 'agent-horizon' = '9'
+cycle: 1
+average reward: 0
+explore rate: 0
+history size: 26
+cycle: 2
+average reward: 1011
+explore rate: 0
+history size: 52
+cycle: 4
+average reward: 1004.33
+explore rate: 0
+history size: 104
+cycle: 8
+average reward: 1001
+explore rate: 0
+history size: 208
+cycle: 16
+average reward: 999
+explore rate: 0
+history size: 416

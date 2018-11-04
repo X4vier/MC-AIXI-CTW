@@ -1,0 +1,22 @@
+OPTION: 'environment' = 'cheese-maze'
+OPTION: 'exploration' = '0.1'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '1000'
+OPTION: 'ct-depth' = '128'
+OPTION: 'agent-horizon' = '7'
+cycle: 1
+average reward: 0
+explore rate: 0.1
+history size: 11
+cycle: 2
+average reward: 4.5
+explore rate: 0.1
+history size: 22
+cycle: 4
+average reward: 4.5
+explore rate: 0.1
+history size: 44
+cycle: 8
+average reward: 4.5
+explore rate: 0.1
+history size: 88

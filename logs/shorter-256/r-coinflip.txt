@@ -1,0 +1,52 @@
+OPTION: 'environment' = 'coin-flip'
+OPTION: 'coin-flip-p' = '0.1'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '1000'
+OPTION: 'ct-depth' = '256'
+OPTION: 'agent-horizon' = '8'
+cycle: 1
+average reward: 0
+explore rate: 1
+history size: 3
+cycle: 2
+average reward: 0
+explore rate: 1
+history size: 6
+cycle: 4
+average reward: 0.25
+explore rate: 1
+history size: 12
+cycle: 8
+average reward: 0.25
+explore rate: 1
+history size: 24
+cycle: 16
+average reward: 0.375
+explore rate: 1
+history size: 48
+cycle: 32
+average reward: 0.53125
+explore rate: 1
+history size: 96
+cycle: 64
+average reward: 0.5
+explore rate: 1
+history size: 192
+cycle: 128
+average reward: 0.53125
+explore rate: 1
+history size: 384
+cycle: 256
+average reward: 0.484375
+explore rate: 1
+history size: 768
+cycle: 512
+average reward: 0.46875
+explore rate: 1
+history size: 1536
+
+
+SUMMARY
+agent lifetime: 1001
+average reward: 0.505495

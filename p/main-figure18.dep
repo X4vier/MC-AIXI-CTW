@@ -1,0 +1,4 @@
+main-figure18.pdf: ../logs/sp1-p-tictactoe.csv
+main-figure18.pdf: ../logs/sp1-tictactoe.csv
+main-figure18.pdf: sp2-p-ttt.f.csv
+main-figure18.pdf: ../logs/sp2-tictactoe.csv

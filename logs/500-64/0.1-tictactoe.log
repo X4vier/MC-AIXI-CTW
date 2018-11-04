@@ -1,0 +1,5011 @@
+cycle: 1
+observation: 4179158362
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 0
+average reward: 0
+mcst new del 1513 1513
+ct new del 16475418 16475415
+cycle: 2
+observation: 0
+reward: 3
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 3
+average reward: 1.5
+mcst new del 3010 3010
+ct new del 36891936 36891933
+cycle: 3
+observation: 131073
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 5
+average reward: 1.66667
+mcst new del 4053 4053
+ct new del 60092194 60090915
+cycle: 4
+observation: 131205
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 7
+average reward: 1.75
+mcst new del 4053 4053
+ct new del 60095048 60090915
+cycle: 5
+observation: 135813
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 9
+average reward: 1.8
+mcst new del 5069 5069
+ct new del 81204568 81197681
+cycle: 6
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 13
+average reward: 2.16667
+mcst new del 6140 6140
+ct new del 101179982 101170567
+cycle: 7
+observation: 131088
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 15
+average reward: 2.14286
+mcst new del 7209 7209
+ct new del 120868936 120856921
+cycle: 8
+observation: 131604
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 17
+average reward: 2.125
+mcst new del 8280 8280
+ct new del 140654020 140639365
+cycle: 9
+observation: 131604
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 17
+average reward: 1.88889
+mcst new del 9317 9317
+ct new del 160453440 160436685
+cycle: 10
+observation: 139860
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 19
+average reward: 1.9
+mcst new del 10374 10374
+ct new del 180313480 180293989
+cycle: 11
+observation: 139860
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 19
+average reward: 1.72727
+mcst new del 11410 11410
+ct new del 200094152 200072207
+cycle: 12
+observation: 158292
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.75
+mcst new del 12457 12457
+ct new del 220094676 220069993
+cycle: 13
+observation: 158292
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.61538
+mcst new del 13510 13510
+ct new del 240032270 240005151
+cycle: 14
+observation: 158292
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.5
+mcst new del 14600 14600
+ct new del 259846270 259816793
+cycle: 15
+observation: 158292
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.4
+mcst new del 15681 15681
+ct new del 279469276 279437389
+cycle: 16
+observation: 158292
+reward: 0
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 21
+average reward: 1.3125
+mcst new del 15681 15681
+ct new del 279471748 279437389
+cycle: 17
+observation: 158292
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.23529
+mcst new del 16802 16802
+ct new del 298956124 298919311
+cycle: 18
+observation: 158292
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.16667
+mcst new del 17941 17941
+ct new del 318351246 318312073
+cycle: 19
+observation: 158292
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.10526
+mcst new del 19092 19092
+ct new del 337818232 337777625
+cycle: 20
+observation: 158292
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 21
+average reward: 1.05
+mcst new del 20279 20279
+ct new del 357331992 357289033
+cycle: 21
+observation: 0
+reward: 4
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 25
+average reward: 1.19048
+mcst new del 21439 21439
+ct new del 376886774 376841337
+cycle: 22
+observation: 131076
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 27
+average reward: 1.22727
+mcst new del 22616 22616
+ct new del 395954764 395906809
+cycle: 23
+observation: 131076
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 27
+average reward: 1.17391
+mcst new del 22616 22616
+ct new del 395957102 395906809
+cycle: 24
+observation: 131334
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 29
+average reward: 1.20833
+mcst new del 23769 23769
+ct new del 414971862 414918979
+cycle: 25
+observation: 135462
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 31
+average reward: 1.24
+mcst new del 24911 24911
+ct new del 434013024 433957501
+cycle: 26
+observation: 135462
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 31
+average reward: 1.19231
+mcst new del 26022 26022
+ct new del 453109456 453051369
+cycle: 27
+observation: 136614
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.22222
+mcst new del 27126 27126
+ct new del 472353674 472292873
+cycle: 28
+observation: 136614
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.17857
+mcst new del 28228 28228
+ct new del 491622840 491559501
+cycle: 29
+observation: 136614
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.13793
+mcst new del 29388 29388
+ct new del 511006420 510941039
+cycle: 30
+observation: 136614
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.1
+mcst new del 30522 30522
+ct new del 530361014 530293205
+cycle: 31
+observation: 136614
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.06452
+mcst new del 31650 31650
+ct new del 549847254 549776961
+cycle: 32
+observation: 136614
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1.03125
+mcst new del 32786 32786
+ct new del 569159544 569086895
+cycle: 33
+observation: 136614
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 1
+mcst new del 33910 33910
+ct new del 588310544 588236451
+cycle: 34
+observation: 136614
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 0.970588
+mcst new del 35022 35022
+ct new del 607566738 607491229
+cycle: 35
+observation: 136614
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 0.942857
+mcst new del 36156 36156
+ct new del 626893520 626815663
+cycle: 36
+observation: 136614
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 0.916667
+mcst new del 37271 37271
+ct new del 646100682 646020523
+cycle: 37
+observation: 136614
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 0.891892
+mcst new del 38375 38375
+ct new del 665025422 664944013
+cycle: 38
+observation: 136614
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 33
+average reward: 0.868421
+mcst new del 39537 39537
+ct new del 683966836 683885011
+cycle: 39
+observation: 0
+reward: 4
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 37
+average reward: 0.948718
+mcst new del 40699 40699
+ct new del 703160328 703076261
+cycle: 40
+observation: 135168
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 39
+average reward: 0.975
+mcst new del 41820 41820
+ct new del 722199478 722112919
+cycle: 41
+observation: 135168
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 39
+average reward: 0.95122
+mcst new del 42993 42993
+ct new del 741264978 741176095
+cycle: 42
+observation: 135177
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 41
+average reward: 0.97619
+mcst new del 44111 44111
+ct new del 760079394 759987969
+cycle: 43
+observation: 135177
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 41
+average reward: 0.953488
+mcst new del 45323 45323
+ct new del 778919768 778825841
+cycle: 44
+observation: 136329
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 43
+average reward: 0.977273
+mcst new del 46484 46484
+ct new del 797807944 797711567
+cycle: 45
+observation: 136617
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 45
+average reward: 1
+mcst new del 47615 47615
+ct new del 816627942 816529037
+cycle: 46
+observation: 136617
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 45
+average reward: 0.978261
+mcst new del 48713 48713
+ct new del 835391496 835290129
+cycle: 47
+observation: 136617
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 45
+average reward: 0.957447
+mcst new del 49862 49862
+ct new del 854214324 854110523
+cycle: 48
+observation: 0
+reward: 3
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 48
+average reward: 1
+mcst new del 50949 50949
+ct new del 873282068 873176393
+cycle: 49
+observation: 132096
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 50
+average reward: 1.02041
+mcst new del 52056 52056
+ct new del 892282972 892174747
+cycle: 50
+observation: 140292
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 52
+average reward: 1.04
+mcst new del 53208 53208
+ct new del 911109578 910998939
+cycle: 51
+observation: 140805
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 54
+average reward: 1.05882
+mcst new del 54319 54319
+ct new del 929916752 929803517
+cycle: 52
+observation: 140805
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 54
+average reward: 1.03846
+mcst new del 55431 55431
+ct new del 948771550 948655881
+cycle: 53
+observation: 0
+reward: 1
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 55
+average reward: 1.03774
+mcst new del 56568 56568
+ct new del 967548090 967430095
+cycle: 54
+observation: 147456
+reward: 2
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 57
+average reward: 1.05556
+mcst new del 56568 56568
+ct new del 967550470 967430095
+cycle: 55
+observation: 147456
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 57
+average reward: 1.03636
+mcst new del 57675 57675
+ct new del 986224352 986101667
+cycle: 56
+observation: 147588
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 59
+average reward: 1.05357
+mcst new del 58766 58766
+ct new del 1004877648 1004752431
+cycle: 57
+observation: 147588
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 59
+average reward: 1.03509
+mcst new del 58766 58766
+ct new del 1004880072 1004752431
+cycle: 58
+observation: 147588
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 59
+average reward: 1.01724
+mcst new del 58766 58766
+ct new del 1004882452 1004752431
+cycle: 59
+observation: 0
+reward: 4
+action: 7
+explored: yes
+explore rate: 0.1
+total reward: 63
+average reward: 1.0678
+mcst new del 58766 58766
+ct new del 1004884646 1004752431
+cycle: 60
+observation: 131076
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 65
+average reward: 1.08333
+mcst new del 59935 59935
+ct new del 1023307220 1023173625
+cycle: 61
+observation: 132102
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 67
+average reward: 1.09836
+mcst new del 61058 61058
+ct new del 1041782822 1041646679
+cycle: 62
+observation: 132102
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 67
+average reward: 1.08065
+mcst new del 62152 62152
+ct new del 1060252634 1060114425
+cycle: 63
+observation: 132102
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 67
+average reward: 1.06349
+mcst new del 63291 63291
+ct new del 1078560322 1078419735
+cycle: 64
+observation: 132102
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 67
+average reward: 1.04688
+mcst new del 64427 64427
+ct new del 1097026664 1096884553
+cycle: 65
+observation: 132102
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 67
+average reward: 1.03077
+mcst new del 65558 65558
+ct new del 1115431574 1115287055
+cycle: 66
+observation: 0
+reward: 1
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 68
+average reward: 1.0303
+mcst new del 66684 66684
+ct new del 1133787422 1133640825
+cycle: 67
+observation: 132096
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 70
+average reward: 1.04478
+mcst new del 67889 67889
+ct new del 1152207480 1152058581
+cycle: 68
+observation: 132120
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 72
+average reward: 1.05882
+mcst new del 69030 69030
+ct new del 1170510668 1170359233
+cycle: 69
+observation: 132249
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 74
+average reward: 1.07246
+mcst new del 70158 70158
+ct new del 1188814306 1188660403
+cycle: 70
+observation: 132249
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 74
+average reward: 1.05714
+mcst new del 71275 71275
+ct new del 1207081176 1206925317
+cycle: 71
+observation: 149145
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 1.07042
+mcst new del 72364 72364
+ct new del 1225489428 1225330963
+cycle: 72
+observation: 149145
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 1.05556
+mcst new del 73446 73446
+ct new del 1243888296 1243727423
+cycle: 73
+observation: 149145
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 76
+average reward: 1.0411
+mcst new del 73446 73446
+ct new del 1243890572 1243727423
+cycle: 74
+observation: 149145
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 1.02703
+mcst new del 74579 74579
+ct new del 1262182502 1262016941
+cycle: 75
+observation: 149145
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 1.01333
+mcst new del 75719 75719
+ct new del 1280429792 1280262087
+cycle: 76
+observation: 149145
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 1
+mcst new del 76805 76805
+ct new del 1298658788 1298488743
+cycle: 77
+observation: 149145
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 0.987013
+mcst new del 77945 77945
+ct new del 1316579298 1316407913
+cycle: 78
+observation: 149145
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 0.974359
+mcst new del 79089 79089
+ct new del 1334945282 1334771563
+cycle: 79
+observation: 149145
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 0.962025
+mcst new del 80287 80287
+ct new del 1353327912 1353151719
+cycle: 80
+observation: 149145
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 0.95
+mcst new del 81421 81421
+ct new del 1371492074 1371313527
+cycle: 81
+observation: 149145
+reward: 0
+action: 6
+explored: yes
+explore rate: 0.1
+total reward: 76
+average reward: 0.938272
+mcst new del 81421 81421
+ct new del 1371493430 1371313527
+cycle: 82
+observation: 149145
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 76
+average reward: 0.926829
+mcst new del 82518 82518
+ct new del 1389704510 1389523187
+cycle: 83
+observation: 0
+reward: 3
+action: 7
+explored: yes
+explore rate: 0.1
+total reward: 79
+average reward: 0.951807
+mcst new del 82518 82518
+ct new del 1389706744 1389523187
+cycle: 84
+observation: 131076
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 81
+average reward: 0.964286
+mcst new del 83665 83665
+ct new del 1407819758 1407633931
+cycle: 85
+observation: 132102
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 83
+average reward: 0.976471
+mcst new del 84810 84810
+ct new del 1425839424 1425652297
+cycle: 86
+observation: 132102
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 83
+average reward: 0.965116
+mcst new del 85932 85932
+ct new del 1443983952 1443794461
+cycle: 87
+observation: 156678
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 85
+average reward: 0.977011
+mcst new del 87075 87075
+ct new del 1462305388 1462113409
+cycle: 88
+observation: 156678
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 85
+average reward: 0.965909
+mcst new del 88277 88277
+ct new del 1480624404 1480430073
+cycle: 89
+observation: 0
+reward: 1
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 86
+average reward: 0.966292
+mcst new del 89374 89374
+ct new del 1498730194 1498533773
+cycle: 90
+observation: 131328
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 88
+average reward: 0.977778
+mcst new del 90508 90508
+ct new del 1516833690 1516635029
+cycle: 91
+observation: 131328
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 88
+average reward: 0.967033
+mcst new del 91650 91650
+ct new del 1534926430 1534725511
+cycle: 92
+observation: 133377
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 90
+average reward: 0.978261
+mcst new del 92749 92749
+ct new del 1553034072 1552830785
+cycle: 93
+observation: 170241
+reward: 2
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 92
+average reward: 0.989247
+mcst new del 92749 92749
+ct new del 1553036494 1552830785
+cycle: 94
+observation: 170241
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 92
+average reward: 0.978723
+mcst new del 93908 93908
+ct new del 1571092106 1570883947
+cycle: 95
+observation: 170241
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 92
+average reward: 0.968421
+mcst new del 95065 95065
+ct new del 1589297654 1589087129
+cycle: 96
+observation: 170241
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 92
+average reward: 0.958333
+mcst new del 96164 96164
+ct new del 1607439904 1607227011
+cycle: 97
+observation: 0
+reward: 1
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 93
+average reward: 0.958763
+mcst new del 97342 97342
+ct new del 1625636688 1625421377
+cycle: 98
+observation: 131076
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 95
+average reward: 0.969388
+mcst new del 98464 98464
+ct new del 1643436662 1643219019
+cycle: 99
+observation: 131076
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 95
+average reward: 0.959596
+mcst new del 99571 99571
+ct new del 1661426816 1661206921
+cycle: 100
+observation: 133188
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 97
+average reward: 0.97
+mcst new del 99571 99571
+ct new del 1661429244 1661206921
+cycle: 101
+observation: 170052
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 99
+average reward: 0.980198
+mcst new del 100671 100671
+ct new del 1679527568 1679302793
+cycle: 102
+observation: 170052
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 99
+average reward: 0.970588
+mcst new del 101766 101766
+ct new del 1697565660 1697338405
+cycle: 103
+observation: 170052
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 99
+average reward: 0.961165
+mcst new del 102889 102889
+ct new del 1715618336 1715388729
+cycle: 104
+observation: 170310
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 101
+average reward: 0.971154
+mcst new del 104010 104010
+ct new del 1733919272 1733687117
+cycle: 105
+observation: 170310
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 101
+average reward: 0.961905
+mcst new del 105119 105119
+ct new del 1751965406 1751730787
+cycle: 106
+observation: 0
+reward: 4
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 105
+average reward: 0.990566
+mcst new del 106230 106230
+ct new del 1769861536 1769624705
+cycle: 107
+observation: 135168
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 107
+average reward: 1
+mcst new del 107378 107378
+ct new del 1787639856 1787401775
+cycle: 108
+observation: 135201
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 109
+average reward: 1.00926
+mcst new del 108524 108524
+ct new del 1805661672 1805421121
+cycle: 109
+observation: 135201
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 109
+average reward: 1
+mcst new del 109617 109617
+ct new del 1823487614 1823244683
+cycle: 110
+observation: 135201
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 109
+average reward: 0.990909
+mcst new del 110742 110742
+ct new del 1841126864 1840881767
+cycle: 111
+observation: 135201
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 109
+average reward: 0.981982
+mcst new del 111844 111844
+ct new del 1858864826 1858618379
+cycle: 112
+observation: 135201
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 109
+average reward: 0.973214
+mcst new del 112952 112952
+ct new del 1876734294 1876485421
+cycle: 113
+observation: 135717
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 111
+average reward: 0.982301
+mcst new del 112952 112952
+ct new del 1876736856 1876485421
+cycle: 114
+observation: 135717
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 111
+average reward: 0.973684
+mcst new del 114080 114080
+ct new del 1894693642 1894439789
+cycle: 115
+observation: 135717
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 111
+average reward: 0.965217
+mcst new del 115171 115171
+ct new del 1912544600 1912288405
+cycle: 116
+observation: 135717
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 111
+average reward: 0.956897
+mcst new del 116278 116278
+ct new del 1930311208 1930053629
+cycle: 117
+observation: 135717
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 111
+average reward: 0.948718
+mcst new del 117421 117421
+ct new del 1948255232 1947995335
+cycle: 118
+observation: 0
+reward: 4
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 115
+average reward: 0.974576
+mcst new del 118553 118553
+ct new del 1966195034 1965933053
+cycle: 119
+observation: 147456
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 117
+average reward: 0.983193
+mcst new del 119646 119646
+ct new del 1984239964 1983975767
+cycle: 120
+observation: 149568
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 119
+average reward: 0.991667
+mcst new del 120774 120774
+ct new del 2002072686 2001806041
+cycle: 121
+observation: 149568
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 119
+average reward: 0.983471
+mcst new del 121864 121864
+ct new del 2019955398 2019686345
+cycle: 122
+observation: 149568
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 119
+average reward: 0.97541
+mcst new del 122995 122995
+ct new del 2037852276 2037580901
+cycle: 123
+observation: 157776
+reward: 2
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 121
+average reward: 0.98374
+mcst new del 122995 122995
+ct new del 2037854750 2037580901
+cycle: 124
+observation: 157776
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 121
+average reward: 0.975806
+mcst new del 124133 124133
+ct new del 2055705774 2055429435
+cycle: 125
+observation: 158040
+reward: 2
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 123
+average reward: 0.984
+mcst new del 124133 124133
+ct new del 2055708266 2055429435
+cycle: 126
+observation: 158040
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 123
+average reward: 0.97619
+mcst new del 125220 125220
+ct new del 2073669530 2073388231
+cycle: 127
+observation: 158040
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 123
+average reward: 0.968504
+mcst new del 126325 126325
+ct new del 2091534562 2091250971
+cycle: 128
+observation: 158040
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 123
+average reward: 0.960938
+mcst new del 127432 127432
+ct new del 2109326910 2109040899
+cycle: 129
+observation: 0
+reward: 3
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 126
+average reward: 0.976744
+mcst new del 128547 128547
+ct new del 2127226064 2126938073
+cycle: 130
+observation: 131073
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 128
+average reward: 0.984615
+mcst new del 129664 129664
+ct new del 2145023548 2144733587
+cycle: 131
+observation: 137217
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 130
+average reward: 0.992366
+mcst new del 130797 130797
+ct new del 2162836406 2162544051
+cycle: 132
+observation: 137217
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 130
+average reward: 0.984848
+mcst new del 131921 131921
+ct new del 2180536350 2180241623
+cycle: 133
+observation: 137217
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 130
+average reward: 0.977444
+mcst new del 133013 133013
+ct new del 2198249076 2197952125
+cycle: 134
+observation: 170001
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 132
+average reward: 0.985075
+mcst new del 134114 134114
+ct new del 2216076852 2215777393
+cycle: 135
+observation: 170001
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 132
+average reward: 0.977778
+mcst new del 135220 135220
+ct new del 2233957218 2233655389
+cycle: 136
+observation: 0
+reward: 4
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 136
+average reward: 1
+mcst new del 136367 136367
+ct new del 2251569012 2251265277
+cycle: 137
+observation: 135168
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 138
+average reward: 1.0073
+mcst new del 137468 137468
+ct new del 2268974962 2268669841
+cycle: 138
+observation: 136200
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 140
+average reward: 1.01449
+mcst new del 138591 138591
+ct new del 2286812794 2286505317
+cycle: 139
+observation: 136233
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 142
+average reward: 1.02158
+mcst new del 139692 139692
+ct new del 2304613808 2304304025
+cycle: 140
+observation: 136233
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 142
+average reward: 1.01429
+mcst new del 140807 140807
+ct new del 2322398832 2322086675
+cycle: 141
+observation: 136233
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 142
+average reward: 1.00709
+mcst new del 141987 141987
+ct new del 2340116050 2339801707
+cycle: 142
+observation: 169257
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 1.01408
+mcst new del 143110 143110
+ct new del 2358081458 2357764585
+cycle: 143
+observation: 169257
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 1.00699
+mcst new del 144207 144207
+ct new del 2376020630 2375701229
+cycle: 144
+observation: 169257
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 1
+mcst new del 145308 145308
+ct new del 2393962332 2393640503
+cycle: 145
+observation: 169257
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 0.993103
+mcst new del 146404 146404
+ct new del 2411743904 2411419681
+cycle: 146
+observation: 169257
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 0.986301
+mcst new del 147499 147499
+ct new del 2429559074 2429232575
+cycle: 147
+observation: 169257
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 0.979592
+mcst new del 148646 148646
+ct new del 2447298280 2446970335
+cycle: 148
+observation: 169257
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 144
+average reward: 0.972973
+mcst new del 149745 149745
+ct new del 2465125000 2464794705
+cycle: 149
+observation: 169257
+reward: 0
+action: 5
+explored: yes
+explore rate: 0.1
+total reward: 144
+average reward: 0.966443
+mcst new del 149745 149745
+ct new del 2465127194 2464794705
+cycle: 150
+observation: 0
+reward: 4
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 148
+average reward: 0.986667
+mcst new del 150823 150823
+ct new del 2482756304 2482421673
+cycle: 151
+observation: 131073
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 150
+average reward: 0.993377
+mcst new del 152075 152075
+ct new del 2500469308 2500132383
+cycle: 152
+observation: 133137
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 152
+average reward: 1
+mcst new del 153211 153211
+ct new del 2518156180 2517816737
+cycle: 153
+observation: 133137
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 152
+average reward: 0.993464
+mcst new del 154286 154286
+ct new del 2535896790 2535554933
+cycle: 154
+observation: 133137
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 152
+average reward: 0.987013
+mcst new del 155448 155448
+ct new del 2553623036 2553278913
+cycle: 155
+observation: 133713
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 154
+average reward: 0.993548
+mcst new del 156552 156552
+ct new del 2571452992 2571106423
+cycle: 156
+observation: 133713
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 154
+average reward: 0.987179
+mcst new del 157670 157670
+ct new del 2589233236 2588884295
+cycle: 157
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 158
+average reward: 1.00637
+mcst new del 158780 158780
+ct new del 2606775664 2606424661
+cycle: 158
+observation: 131088
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 160
+average reward: 1.01266
+mcst new del 159855 159855
+ct new del 2624399962 2624047647
+cycle: 159
+observation: 132240
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 162
+average reward: 1.01887
+mcst new del 160942 160942
+ct new del 2642075422 2641720701
+cycle: 160
+observation: 140433
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 1.025
+mcst new del 162062 162062
+ct new del 2659865208 2659508027
+cycle: 161
+observation: 140433
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 1.01863
+mcst new del 163180 163180
+ct new del 2677670352 2677311027
+cycle: 162
+observation: 140433
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 1.01235
+mcst new del 164297 164297
+ct new del 2695143110 2694781391
+cycle: 163
+observation: 140433
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 164
+average reward: 1.00613
+mcst new del 164297 164297
+ct new del 2695145404 2694781391
+cycle: 164
+observation: 140433
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 1
+mcst new del 165392 165392
+ct new del 2712646032 2712280769
+cycle: 165
+observation: 140433
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 0.993939
+mcst new del 166499 166499
+ct new del 2730183736 2729816235
+cycle: 166
+observation: 140433
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 0.987952
+mcst new del 167589 167589
+ct new del 2747742534 2747373597
+cycle: 167
+observation: 140433
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 0.982036
+mcst new del 168707 168707
+ct new del 2765455842 2765084601
+cycle: 168
+observation: 140433
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 164
+average reward: 0.97619
+mcst new del 169777 169777
+ct new del 2783129404 2782756701
+cycle: 169
+observation: 0
+reward: 4
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 168
+average reward: 0.994083
+mcst new del 169777 169777
+ct new del 2783131492 2782756701
+cycle: 170
+observation: 135168
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 170
+average reward: 1
+mcst new del 170873 170873
+ct new del 2800610112 2800234303
+cycle: 171
+observation: 151584
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 172
+average reward: 1.00585
+mcst new del 171975 171975
+ct new del 2818269186 2817890967
+cycle: 172
+observation: 151584
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 172
+average reward: 1
+mcst new del 173056 173056
+ct new del 2835959112 2835578433
+cycle: 173
+observation: 151968
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 174
+average reward: 1.00578
+mcst new del 174282 174282
+ct new del 2853736302 2853353161
+cycle: 174
+observation: 151968
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 174
+average reward: 1
+mcst new del 175370 175370
+ct new del 2871410278 2871024795
+cycle: 175
+observation: 151968
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 174
+average reward: 0.994286
+mcst new del 176461 176461
+ct new del 2889041736 2888653889
+cycle: 176
+observation: 151968
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 174
+average reward: 0.988636
+mcst new del 177555 177555
+ct new del 2906475878 2906085739
+cycle: 177
+observation: 151968
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 174
+average reward: 0.983051
+mcst new del 178658 178658
+ct new del 2924036176 2923644597
+cycle: 178
+observation: 152994
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.988764
+mcst new del 179788 179788
+ct new del 2941643892 2941249687
+cycle: 179
+observation: 152994
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.98324
+mcst new del 180906 180906
+ct new del 2959360478 2958963851
+cycle: 180
+observation: 152994
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.977778
+mcst new del 181986 181986
+ct new del 2977049776 2976650807
+cycle: 181
+observation: 152994
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.972376
+mcst new del 183109 183109
+ct new del 2994712962 2994311601
+cycle: 182
+observation: 152994
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 176
+average reward: 0.967033
+mcst new del 183109 183109
+ct new del 2994715306 2994311601
+cycle: 183
+observation: 152994
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.961749
+mcst new del 184195 184195
+ct new del 3012365566 3011959593
+cycle: 184
+observation: 152994
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.956522
+mcst new del 185274 185274
+ct new del 3029973894 3029565899
+cycle: 185
+observation: 152994
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.951351
+mcst new del 186326 186326
+ct new del 3047587788 3047177541
+cycle: 186
+observation: 152994
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.946237
+mcst new del 187423 187423
+ct new del 3065207182 3064795551
+cycle: 187
+observation: 152994
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 176
+average reward: 0.941176
+mcst new del 188555 188555
+ct new del 3082916716 3082502763
+cycle: 188
+observation: 0
+reward: 4
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 180
+average reward: 0.957447
+mcst new del 189620 189620
+ct new del 3100505016 3100088989
+cycle: 189
+observation: 131328
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 182
+average reward: 0.962963
+mcst new del 190686 190686
+ct new del 3118152832 3117734719
+cycle: 190
+observation: 131394
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 184
+average reward: 0.968421
+mcst new del 191805 191805
+ct new del 3135810666 3135390109
+cycle: 191
+observation: 131394
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 184
+average reward: 0.963351
+mcst new del 192910 192910
+ct new del 3153466168 3153043713
+cycle: 192
+observation: 147786
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 186
+average reward: 0.96875
+mcst new del 193976 193976
+ct new del 3171128540 3170703707
+cycle: 193
+observation: 153930
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 188
+average reward: 0.974093
+mcst new del 195056 195056
+ct new del 3188825764 3188398473
+cycle: 194
+observation: 153930
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 188
+average reward: 0.969072
+mcst new del 196127 196127
+ct new del 3206579288 3206149807
+cycle: 195
+observation: 153930
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 188
+average reward: 0.964103
+mcst new del 197215 197215
+ct new del 3224274262 3223842427
+cycle: 196
+observation: 153930
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 188
+average reward: 0.959184
+mcst new del 198302 198302
+ct new del 3241946352 3241512297
+cycle: 197
+observation: 153930
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 188
+average reward: 0.954315
+mcst new del 199396 199396
+ct new del 3259677660 3259241167
+cycle: 198
+observation: 0
+reward: 4
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 192
+average reward: 0.969697
+mcst new del 200457 200457
+ct new del 3277087638 3276649053
+cycle: 199
+observation: 65568
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 194
+average reward: 0.974874
+mcst new del 201552 201552
+ct new del 3294767988 3294327165
+cycle: 200
+observation: 66081
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 196
+average reward: 0.98
+mcst new del 202620 202620
+ct new del 3312459964 3312016759
+cycle: 201
+observation: 66081
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 196
+average reward: 0.975124
+mcst new del 202620 202620
+ct new del 3312462228 3312016759
+cycle: 202
+observation: 84513
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 198
+average reward: 0.980198
+mcst new del 203726 203726
+ct new del 3330125826 3329678071
+cycle: 203
+observation: 84513
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 198
+average reward: 0.975369
+mcst new del 203726 203726
+ct new del 3330128178 3329678071
+cycle: 204
+observation: 84513
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 198
+average reward: 0.970588
+mcst new del 204825 204825
+ct new del 3347718286 3347266053
+cycle: 205
+observation: 84513
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 198
+average reward: 0.965854
+mcst new del 205929 205929
+ct new del 3365213016 3364758435
+cycle: 206
+observation: 84513
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 198
+average reward: 0.961165
+mcst new del 206989 206989
+ct new del 3382845270 3382388303
+cycle: 207
+observation: 0
+reward: 1
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 199
+average reward: 0.961353
+mcst new del 208101 208101
+ct new del 3400264082 3399804881
+cycle: 208
+observation: 131088
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 201
+average reward: 0.966346
+mcst new del 209270 209270
+ct new del 3417839402 3417378049
+cycle: 209
+observation: 131088
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 201
+average reward: 0.961722
+mcst new del 210384 210384
+ct new del 3435296112 3434832501
+cycle: 210
+observation: 131346
+reward: 2
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 203
+average reward: 0.966667
+mcst new del 210384 210384
+ct new del 3435298422 3434832501
+cycle: 211
+observation: 147858
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 205
+average reward: 0.971564
+mcst new del 211491 211491
+ct new del 3452855296 3452386791
+cycle: 212
+observation: 0
+reward: 4
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 209
+average reward: 0.985849
+mcst new del 212600 212600
+ct new del 3470216918 3469746145
+cycle: 213
+observation: 131073
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 211
+average reward: 0.99061
+mcst new del 213663 213663
+ct new del 3487514918 3487042899
+cycle: 214
+observation: 135297
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 213
+average reward: 0.995327
+mcst new del 214746 214746
+ct new del 3505046496 3504572389
+cycle: 215
+observation: 135561
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 215
+average reward: 1
+mcst new del 215864 215864
+ct new del 3522536198 3522059719
+cycle: 216
+observation: 151977
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 217
+average reward: 1.00463
+mcst new del 216947 216947
+ct new del 3540121972 3539643035
+cycle: 217
+observation: 151977
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 217
+average reward: 1
+mcst new del 218003 218003
+ct new del 3557664692 3557183477
+cycle: 218
+observation: 151977
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 217
+average reward: 0.995413
+mcst new del 219089 219089
+ct new del 3575126430 3574642909
+cycle: 219
+observation: 0
+reward: 3
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 220
+average reward: 1.00457
+mcst new del 220313 220313
+ct new del 3592631950 3592146255
+cycle: 220
+observation: 131088
+reward: 2
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 222
+average reward: 1.00909
+mcst new del 220313 220313
+ct new del 3592634228 3592146255
+cycle: 221
+observation: 133392
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 224
+average reward: 1.01357
+mcst new del 221437 221437
+ct new del 3610196962 3609706527
+cycle: 222
+observation: 141648
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 1.01802
+mcst new del 222542 222542
+ct new del 3627623128 3627130301
+cycle: 223
+observation: 141648
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 1.01345
+mcst new del 223692 223692
+ct new del 3645220372 3644725259
+cycle: 224
+observation: 141648
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 1.00893
+mcst new del 224792 224792
+ct new del 3662718736 3662221237
+cycle: 225
+observation: 141648
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 1.00444
+mcst new del 225910 225910
+ct new del 3680120118 3679620383
+cycle: 226
+observation: 141648
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 1
+mcst new del 227045 227045
+ct new del 3697324708 3696823649
+cycle: 227
+observation: 141648
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 226
+average reward: 0.995595
+mcst new del 228142 228142
+ct new del 3714747358 3714244089
+cycle: 228
+observation: 0
+reward: 1
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 227
+average reward: 0.995614
+mcst new del 229232 229232
+ct new del 3732106342 3731600973
+cycle: 229
+observation: 131073
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 229
+average reward: 1
+mcst new del 230286 230286
+ct new del 3749568012 3749060363
+cycle: 230
+observation: 131169
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 231
+average reward: 1.00435
+mcst new del 231353 231353
+ct new del 3767045538 3766535441
+cycle: 231
+observation: 131685
+reward: 2
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 233
+average reward: 1.00866
+mcst new del 231353 231353
+ct new del 3767047968 3766535441
+cycle: 232
+observation: 0
+reward: 1
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 234
+average reward: 1.00862
+mcst new del 232401 232401
+ct new del 3784347134 3783832505
+cycle: 233
+observation: 131136
+reward: 2
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 236
+average reward: 1.01288
+mcst new del 232401 232401
+ct new del 3784349324 3783832505
+cycle: 234
+observation: 132672
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 238
+average reward: 1.01709
+mcst new del 233504 233504
+ct new del 3801908904 3801389693
+cycle: 235
+observation: 132672
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 238
+average reward: 1.01277
+mcst new del 233504 233504
+ct new del 3801910940 3801389693
+cycle: 236
+observation: 132672
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 238
+average reward: 1.00847
+mcst new del 234621 234621
+ct new del 3819233500 3818710107
+cycle: 237
+observation: 132705
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 240
+average reward: 1.01266
+mcst new del 235714 235714
+ct new del 3836783556 3836257741
+cycle: 238
+observation: 0
+reward: 1
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 241
+average reward: 1.01261
+mcst new del 236763 236763
+ct new del 3854078910 3853551001
+cycle: 239
+observation: 131136
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 243
+average reward: 1.01674
+mcst new del 236763 236763
+ct new del 3854080358 3853551001
+cycle: 240
+observation: 168000
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 245
+average reward: 1.02083
+mcst new del 237808 237808
+ct new del 3871615046 3871083329
+cycle: 241
+observation: 168000
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 245
+average reward: 1.0166
+mcst new del 238932 238932
+ct new del 3889063684 3888529767
+cycle: 242
+observation: 170064
+reward: 2
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 247
+average reward: 1.02066
+mcst new del 238932 238932
+ct new del 3889066022 3888529767
+cycle: 243
+observation: 170064
+reward: 0
+action: 8
+explored: yes
+explore rate: 0.1
+total reward: 247
+average reward: 1.01646
+mcst new del 238932 238932
+ct new del 3889068338 3888529767
+cycle: 244
+observation: 0
+reward: 4
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 251
+average reward: 1.02869
+mcst new del 238932 238932
+ct new del 3889070460 3888529767
+cycle: 245
+observation: 131328
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 253
+average reward: 1.03265
+mcst new del 240025 240025
+ct new del 3906268116 3905726123
+cycle: 246
+observation: 131400
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 255
+average reward: 1.03659
+mcst new del 241172 241172
+ct new del 3923613304 3923069039
+cycle: 247
+observation: 149832
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 257
+average reward: 1.04049
+mcst new del 242247 242247
+ct new del 3941058316 3940511597
+cycle: 248
+observation: 149850
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.04435
+mcst new del 243322 243322
+ct new del 3958544732 3957995563
+cycle: 249
+observation: 149850
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.04016
+mcst new del 244387 244387
+ct new del 3976033542 3975481925
+cycle: 250
+observation: 149850
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.036
+mcst new del 245493 245493
+ct new del 3993409510 3992855651
+cycle: 251
+observation: 149850
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.03187
+mcst new del 246563 246563
+ct new del 4010531746 4009976461
+cycle: 252
+observation: 149850
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.02778
+mcst new del 247654 247654
+ct new del 4027869840 4027312189
+cycle: 253
+observation: 149850
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.02372
+mcst new del 248763 248763
+ct new del 4045096822 4044537845
+cycle: 254
+observation: 149850
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.01969
+mcst new del 249840 249840
+ct new del 4062568004 4062006667
+cycle: 255
+observation: 149850
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.01569
+mcst new del 250928 250928
+ct new del 4079912730 4079349083
+cycle: 256
+observation: 149850
+reward: 0
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 259
+average reward: 1.01172
+mcst new del 250928 250928
+ct new del 4079913886 4079349083
+cycle: 257
+observation: 149850
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.00778
+mcst new del 251992 251992
+ct new del 4097088062 4096522953
+cycle: 258
+observation: 149850
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1.00388
+mcst new del 253049 253049
+ct new del 4114481430 4113913989
+cycle: 259
+observation: 149850
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 1
+mcst new del 254129 254129
+ct new del 4131700072 4131131237
+cycle: 260
+observation: 149850
+reward: 0
+action: 3
+explored: yes
+explore rate: 0.1
+total reward: 259
+average reward: 0.996154
+mcst new del 254129 254129
+ct new del 4131701478 4131131237
+cycle: 261
+observation: 149850
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 0.992337
+mcst new del 255294 255294
+ct new del 4148957834 4148386149
+cycle: 262
+observation: 149850
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 0.98855
+mcst new del 256399 256399
+ct new del 4165842734 4165269799
+cycle: 263
+observation: 149850
+reward: 0
+action: 8
+explored: yes
+explore rate: 0.1
+total reward: 259
+average reward: 0.984791
+mcst new del 256399 256399
+ct new del 4165842968 4165269799
+cycle: 264
+observation: 149850
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 0.981061
+mcst new del 257500 257500
+ct new del 4183077780 4182503183
+cycle: 265
+observation: 149850
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 0.977358
+mcst new del 258582 258582
+ct new del 4200343578 4199766767
+cycle: 266
+observation: 149850
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 259
+average reward: 0.973684
+mcst new del 259646 259646
+ct new del 4217511906 4216933809
+cycle: 267
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 263
+average reward: 0.985019
+mcst new del 260759 260759
+ct new del 4234635466 4234055453
+cycle: 268
+observation: 131088
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 265
+average reward: 0.988806
+mcst new del 261856 261856
+ct new del 4251857376 4251276403
+cycle: 269
+observation: 133200
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 267
+average reward: 0.992565
+mcst new del 262999 262999
+ct new del 4269192394 4268609141
+cycle: 270
+observation: 149586
+reward: 2
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 269
+average reward: 0.996296
+mcst new del 262999 262999
+ct new del 4269194760 4268609141
+cycle: 271
+observation: 149850
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 1
+mcst new del 264130 264130
+ct new del 4286672068 4286084113
+cycle: 272
+observation: 149850
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 0.996324
+mcst new del 265297 265297
+ct new del 4303839146 4303248981
+cycle: 273
+observation: 149850
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 0.992674
+mcst new del 266381 266381
+ct new del 4320917014 4320325549
+cycle: 274
+observation: 149850
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 0.989051
+mcst new del 267462 267462
+ct new del 4338120346 4337528509
+cycle: 275
+observation: 149850
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 0.985455
+mcst new del 268597 268597
+ct new del 4355376288 4354783013
+cycle: 276
+observation: 149850
+reward: 0
+action: 5
+explored: yes
+explore rate: 0.1
+total reward: 271
+average reward: 0.981884
+mcst new del 268597 268597
+ct new del 4355377640 4354783013
+cycle: 277
+observation: 149850
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 271
+average reward: 0.978339
+mcst new del 269684 269684
+ct new del 4372476430 4371880457
+cycle: 278
+observation: 0
+reward: 4
+action: 6
+explored: yes
+explore rate: 0.1
+total reward: 275
+average reward: 0.989209
+mcst new del 269684 269684
+ct new del 4372477730 4371880457
+cycle: 279
+observation: 131088
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 277
+average reward: 0.992832
+mcst new del 270789 270789
+ct new del 4389191680 4388594225
+cycle: 280
+observation: 131664
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 279
+average reward: 0.996429
+mcst new del 271917 271917
+ct new del 4406649098 4406050203
+cycle: 281
+observation: 131664
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 279
+average reward: 0.992883
+mcst new del 273027 273027
+ct new del 4424037402 4423436219
+cycle: 282
+observation: 135768
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 281
+average reward: 0.996454
+mcst new del 274119 274119
+ct new del 4441461832 4440858183
+cycle: 283
+observation: 135768
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 281
+average reward: 0.992933
+mcst new del 275240 275240
+ct new del 4458738514 4458132565
+cycle: 284
+observation: 0
+reward: 4
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 285
+average reward: 1.00352
+mcst new del 276368 276368
+ct new del 4475865652 4475257767
+cycle: 285
+observation: 147456
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 287
+average reward: 1.00702
+mcst new del 277458 277458
+ct new del 4493154576 4492545219
+cycle: 286
+observation: 151584
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 289
+average reward: 1.01049
+mcst new del 277458 277458
+ct new del 4493156820 4492545219
+cycle: 287
+observation: 151584
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 289
+average reward: 1.00697
+mcst new del 278578 278578
+ct new del 4510455030 4509841359
+cycle: 288
+observation: 151584
+reward: 0
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 289
+average reward: 1.00347
+mcst new del 278578 278578
+ct new del 4510457186 4509841359
+cycle: 289
+observation: 151584
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 289
+average reward: 1
+mcst new del 279691 279691
+ct new del 4527699210 4527081301
+cycle: 290
+observation: 151842
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 291
+average reward: 1.00345
+mcst new del 280792 280792
+ct new del 4545043424 4544423209
+cycle: 291
+observation: 151842
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 291
+average reward: 1
+mcst new del 281913 281913
+ct new del 4562390880 4561768373
+cycle: 292
+observation: 151842
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 291
+average reward: 0.996575
+mcst new del 283054 283054
+ct new del 4579588720 4578963997
+cycle: 293
+observation: 151842
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 291
+average reward: 0.993174
+mcst new del 284150 284150
+ct new del 4596768430 4596142409
+cycle: 294
+observation: 0
+reward: 4
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 295
+average reward: 1.0034
+mcst new del 284150 284150
+ct new del 4596770352 4596142409
+cycle: 295
+observation: 147456
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 297
+average reward: 1.00678
+mcst new del 285211 285211
+ct new del 4613823234 4613193991
+cycle: 296
+observation: 155649
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 299
+average reward: 1.01014
+mcst new del 286320 286320
+ct new del 4631202260 4630570755
+cycle: 297
+observation: 155649
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 299
+average reward: 1.00673
+mcst new del 287444 287444
+ct new del 4648509126 4647875529
+cycle: 298
+observation: 155649
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 299
+average reward: 1.00336
+mcst new del 288532 288532
+ct new del 4665724614 4665088771
+cycle: 299
+observation: 155649
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 299
+average reward: 1
+mcst new del 289639 289639
+ct new del 4682963378 4682326035
+cycle: 300
+observation: 155649
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 299
+average reward: 0.996667
+mcst new del 290743 290743
+ct new del 4700144712 4699505081
+cycle: 301
+observation: 155745
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 301
+average reward: 1
+mcst new del 291857 291857
+ct new del 4717533974 4716891865
+cycle: 302
+observation: 155745
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 301
+average reward: 0.996689
+mcst new del 292960 292960
+ct new del 4734773848 4734129381
+cycle: 303
+observation: 155745
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 301
+average reward: 0.993399
+mcst new del 294071 294071
+ct new del 4752052308 4751405525
+cycle: 304
+observation: 155745
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 301
+average reward: 0.990132
+mcst new del 295186 295186
+ct new del 4769346954 4768697983
+cycle: 305
+observation: 155745
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 301
+average reward: 0.986885
+mcst new del 296268 296268
+ct new del 4786577356 4785926231
+cycle: 306
+observation: 0
+reward: 1
+action: 2
+explored: yes
+explore rate: 0.1
+total reward: 302
+average reward: 0.986928
+mcst new del 296268 296268
+ct new del 4786579452 4785926231
+cycle: 307
+observation: 135168
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 304
+average reward: 0.990228
+mcst new del 297445 297445
+ct new del 4803879872 4803224503
+cycle: 308
+observation: 135312
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 306
+average reward: 0.993506
+mcst new del 298526 298526
+ct new del 4821227124 4820569403
+cycle: 309
+observation: 168081
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 308
+average reward: 0.996764
+mcst new del 299592 299592
+ct new del 4838599134 4837939063
+cycle: 310
+observation: 169113
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 310
+average reward: 1
+mcst new del 300707 300707
+ct new del 4855983508 4855320963
+cycle: 311
+observation: 0
+reward: 4
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 314
+average reward: 1.00965
+mcst new del 301815 301815
+ct new del 4873152130 4872487433
+cycle: 312
+observation: 131076
+reward: 2
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 316
+average reward: 1.01282
+mcst new del 301815 301815
+ct new del 4873153318 4872487433
+cycle: 313
+observation: 155652
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 318
+average reward: 1.01597
+mcst new del 302936 302936
+ct new del 4890572762 4889904569
+cycle: 314
+observation: 156180
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 320
+average reward: 1.01911
+mcst new del 304018 304018
+ct new del 4907992950 4907322295
+cycle: 315
+observation: 157332
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 322
+average reward: 1.02222
+mcst new del 305167 305167
+ct new del 4925383896 4924710677
+cycle: 316
+observation: 157332
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 322
+average reward: 1.01899
+mcst new del 306282 306282
+ct new del 4942693162 4942017581
+cycle: 317
+observation: 0
+reward: 4
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 326
+average reward: 1.02839
+mcst new del 307346 307346
+ct new del 4959812580 4959135087
+cycle: 318
+observation: 147456
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 328
+average reward: 1.03145
+mcst new del 308428 308428
+ct new del 4976792848 4976114515
+cycle: 319
+observation: 147456
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 328
+average reward: 1.02821
+mcst new del 309517 309517
+ct new del 4993939966 4993259719
+cycle: 320
+observation: 149505
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 330
+average reward: 1.03125
+mcst new del 310607 310607
+ct new del 5011307076 5010624463
+cycle: 321
+observation: 149505
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 330
+average reward: 1.02804
+mcst new del 311742 311742
+ct new del 5028609918 5027924947
+cycle: 322
+observation: 0
+reward: 1
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 331
+average reward: 1.02795
+mcst new del 312877 312877
+ct new del 5045578958 5044892007
+cycle: 323
+observation: 131088
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 333
+average reward: 1.03096
+mcst new del 313982 313982
+ct new del 5062552874 5061864787
+cycle: 324
+observation: 149520
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 335
+average reward: 1.03395
+mcst new del 315090 315090
+ct new del 5079875558 5079185161
+cycle: 325
+observation: 153744
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 337
+average reward: 1.03692
+mcst new del 316241 316241
+ct new del 5097235462 5096542579
+cycle: 326
+observation: 153750
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 339
+average reward: 1.03988
+mcst new del 317309 317309
+ct new del 5114516186 5113820799
+cycle: 327
+observation: 153750
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 339
+average reward: 1.0367
+mcst new del 318406 318406
+ct new del 5131821600 5131123761
+cycle: 328
+observation: 0
+reward: 4
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 343
+average reward: 1.04573
+mcst new del 318406 318406
+ct new del 5131823592 5131123761
+cycle: 329
+observation: 65538
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 345
+average reward: 1.04863
+mcst new del 319481 319481
+ct new del 5149012962 5148311023
+cycle: 330
+observation: 65538
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 345
+average reward: 1.04545
+mcst new del 320540 320540
+ct new del 5166047580 5165343553
+cycle: 331
+observation: 67650
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 347
+average reward: 1.04834
+mcst new del 321673 321673
+ct new del 5183313022 5182606715
+cycle: 332
+observation: 84042
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.0512
+mcst new del 322771 322771
+ct new del 5200488476 5199779887
+cycle: 333
+observation: 84042
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.04805
+mcst new del 323969 323969
+ct new del 5217427056 5216716237
+cycle: 334
+observation: 84042
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.04491
+mcst new del 325080 325080
+ct new del 5234451620 5233738677
+cycle: 335
+observation: 84042
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.04179
+mcst new del 326195 326195
+ct new del 5251615954 5250900681
+cycle: 336
+observation: 84042
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.03869
+mcst new del 327347 327347
+ct new del 5268840296 5268122797
+cycle: 337
+observation: 84042
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 349
+average reward: 1.03561
+mcst new del 328439 328439
+ct new del 5286060312 5285340417
+cycle: 338
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 353
+average reward: 1.04438
+mcst new del 329527 329527
+ct new del 5303006292 5302284383
+cycle: 339
+observation: 131088
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 355
+average reward: 1.0472
+mcst new del 330655 330655
+ct new del 5319639222 5318916363
+cycle: 340
+observation: 140304
+reward: 2
+action: 5
+explored: yes
+explore rate: 0.1
+total reward: 357
+average reward: 1.05
+mcst new del 330655 330655
+ct new del 5319640884 5318916363
+cycle: 341
+observation: 140370
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 359
+average reward: 1.05279
+mcst new del 331757 331757
+ct new del 5336973668 5336246683
+cycle: 342
+observation: 140370
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 359
+average reward: 1.04971
+mcst new del 332884 332884
+ct new del 5354173270 5353443869
+cycle: 343
+observation: 0
+reward: 1
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 360
+average reward: 1.04956
+mcst new del 333992 333992
+ct new del 5371186598 5370455385
+cycle: 344
+observation: 147456
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 362
+average reward: 1.05233
+mcst new del 335068 335068
+ct new del 5388119722 5387387309
+cycle: 345
+observation: 147456
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 362
+average reward: 1.04928
+mcst new del 336149 336149
+ct new del 5405136362 5404403629
+cycle: 346
+observation: 147456
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 362
+average reward: 1.04624
+mcst new del 337255 337255
+ct new del 5422157402 5421422571
+cycle: 347
+observation: 148032
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 364
+average reward: 1.04899
+mcst new del 338414 338414
+ct new del 5439184928 5438447787
+cycle: 348
+observation: 148032
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 364
+average reward: 1.04598
+mcst new del 339514 339514
+ct new del 5456322148 5455582777
+cycle: 349
+observation: 148068
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 366
+average reward: 1.04871
+mcst new del 340608 340608
+ct new del 5473456404 5472714601
+cycle: 350
+observation: 0
+reward: 1
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 367
+average reward: 1.04857
+mcst new del 341710 341710
+ct new del 5490325974 5489582101
+cycle: 351
+observation: 147456
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 369
+average reward: 1.05128
+mcst new del 342857 342857
+ct new del 5507428164 5506682957
+cycle: 352
+observation: 147492
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 371
+average reward: 1.05398
+mcst new del 344029 344029
+ct new del 5524470148 5523722529
+cycle: 353
+observation: 147492
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 371
+average reward: 1.05099
+mcst new del 345143 345143
+ct new del 5541598048 5540848163
+cycle: 354
+observation: 0
+reward: 4
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 375
+average reward: 1.05932
+mcst new del 346301 346301
+ct new del 5558297862 5557546249
+cycle: 355
+observation: 65664
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 377
+average reward: 1.06197
+mcst new del 347389 347389
+ct new del 5575410506 5574656827
+cycle: 356
+observation: 82560
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 379
+average reward: 1.06461
+mcst new del 348475 348475
+ct new del 5592667308 5591911319
+cycle: 357
+observation: 90756
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 381
+average reward: 1.06723
+mcst new del 349614 349614
+ct new del 5609839240 5609080701
+cycle: 358
+observation: 90756
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 381
+average reward: 1.06425
+mcst new del 350750 350750
+ct new del 5627056216 5626295269
+cycle: 359
+observation: 0
+reward: 1
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 382
+average reward: 1.06407
+mcst new del 351878 351878
+ct new del 5643976876 5643213833
+cycle: 360
+observation: 135168
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 384
+average reward: 1.06667
+mcst new del 353024 353024
+ct new del 5660621434 5659857141
+cycle: 361
+observation: 137232
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 386
+average reward: 1.06925
+mcst new del 354144 354144
+ct new del 5677702364 5676936395
+cycle: 362
+observation: 137232
+reward: 0
+action: 8
+explored: yes
+explore rate: 0.1
+total reward: 386
+average reward: 1.0663
+mcst new del 354144 354144
+ct new del 5677704650 5676936395
+cycle: 363
+observation: 137241
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 388
+average reward: 1.06887
+mcst new del 355238 355238
+ct new del 5694815408 5694044771
+cycle: 364
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 392
+average reward: 1.07692
+mcst new del 356351 356351
+ct new del 5711708640 5710935911
+cycle: 365
+observation: 131088
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 394
+average reward: 1.07945
+mcst new del 357450 357450
+ct new del 5728426918 5727652941
+cycle: 366
+observation: 149520
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 396
+average reward: 1.08197
+mcst new del 358542 358542
+ct new del 5745309628 5744534325
+cycle: 367
+observation: 149520
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 396
+average reward: 1.07902
+mcst new del 359684 359684
+ct new del 5762264168 5761486699
+cycle: 368
+observation: 149652
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.08152
+mcst new del 360826 360826
+ct new del 5779415290 5778635435
+cycle: 369
+observation: 149652
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.07859
+mcst new del 361921 361921
+ct new del 5796501714 5795719543
+cycle: 370
+observation: 149652
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.07568
+mcst new del 363050 363050
+ct new del 5813515614 5812731205
+cycle: 371
+observation: 149652
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.07278
+mcst new del 364182 364182
+ct new del 5830479580 5829692899
+cycle: 372
+observation: 149652
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.06989
+mcst new del 365323 365323
+ct new del 5847400760 5846612231
+cycle: 373
+observation: 149652
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 398
+average reward: 1.06702
+mcst new del 366428 366428
+ct new del 5864388594 5863598609
+cycle: 374
+observation: 0
+reward: 4
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 402
+average reward: 1.07487
+mcst new del 367505 367505
+ct new del 5881369874 5880577969
+cycle: 375
+observation: 131136
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 404
+average reward: 1.07733
+mcst new del 368642 368642
+ct new del 5898316530 5897522295
+cycle: 376
+observation: 155712
+reward: 2
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 406
+average reward: 1.07979
+mcst new del 369788 369788
+ct new del 5915297586 5914501157
+cycle: 377
+observation: 155712
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 406
+average reward: 1.07692
+mcst new del 370902 370902
+ct new del 5932309750 5931511259
+cycle: 378
+observation: 155721
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 408
+average reward: 1.07937
+mcst new del 372052 372052
+ct new del 5949385104 5948584211
+cycle: 379
+observation: 156249
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.08179
+mcst new del 373114 373114
+ct new del 5966486168 5965682809
+cycle: 380
+observation: 156249
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.07895
+mcst new del 374221 374221
+ct new del 5983550024 5982744271
+cycle: 381
+observation: 156249
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.07612
+mcst new del 375345 375345
+ct new del 6000598526 5999790391
+cycle: 382
+observation: 156249
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.0733
+mcst new del 376435 376435
+ct new del 6017573912 6016763465
+cycle: 383
+observation: 156249
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.0705
+mcst new del 377569 377569
+ct new del 6034406816 6033594063
+cycle: 384
+observation: 156249
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.06771
+mcst new del 378710 378710
+ct new del 6051363116 6050548961
+cycle: 385
+observation: 156249
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.06494
+mcst new del 379858 379858
+ct new del 6068374164 6067557709
+cycle: 386
+observation: 156249
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.06218
+mcst new del 380939 380939
+ct new del 6085247996 6084430291
+cycle: 387
+observation: 156249
+reward: 0
+action: 6
+explored: yes
+explore rate: 0.1
+total reward: 410
+average reward: 1.05943
+mcst new del 380939 380939
+ct new del 6085248410 6084430291
+cycle: 388
+observation: 156249
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.0567
+mcst new del 382056 382056
+ct new del 6102147848 6101327493
+cycle: 389
+observation: 156249
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.05398
+mcst new del 383156 383156
+ct new del 6118822564 6118001009
+cycle: 390
+observation: 156249
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.05128
+mcst new del 384260 384260
+ct new del 6135760562 6134938627
+cycle: 391
+observation: 156249
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.04859
+mcst new del 385384 385384
+ct new del 6152763490 6151939299
+cycle: 392
+observation: 156249
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.04592
+mcst new del 386493 386493
+ct new del 6169696866 6168870339
+cycle: 393
+observation: 156249
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.04326
+mcst new del 387616 387616
+ct new del 6186414686 6185586859
+cycle: 394
+observation: 156249
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.04061
+mcst new del 388768 388768
+ct new del 6203283110 6202453847
+cycle: 395
+observation: 156249
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.03797
+mcst new del 389862 389862
+ct new del 6220132398 6219301813
+cycle: 396
+observation: 156249
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.03535
+mcst new del 390987 390987
+ct new del 6237074586 6236241783
+cycle: 397
+observation: 156249
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.03275
+mcst new del 392129 392129
+ct new del 6253964166 6253129971
+cycle: 398
+observation: 156249
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.03015
+mcst new del 393265 393265
+ct new del 6270792504 6269956967
+cycle: 399
+observation: 156249
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.02757
+mcst new del 394363 394363
+ct new del 6287524080 6286687289
+cycle: 400
+observation: 156249
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.025
+mcst new del 395447 395447
+ct new del 6304305310 6303467301
+cycle: 401
+observation: 156249
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.02244
+mcst new del 396541 396541
+ct new del 6321236340 6320396897
+cycle: 402
+observation: 156249
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 410
+average reward: 1.0199
+mcst new del 397673 397673
+ct new del 6338222930 6337382065
+cycle: 403
+observation: 0
+reward: 3
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 413
+average reward: 1.02481
+mcst new del 397673 397673
+ct new del 6338224970 6337382065
+cycle: 404
+observation: 147456
+reward: 2
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 415
+average reward: 1.02723
+mcst new del 397673 397673
+ct new del 6338227026 6337382065
+cycle: 405
+observation: 147456
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 415
+average reward: 1.02469
+mcst new del 398769 398769
+ct new del 6354988886 6354142695
+cycle: 406
+observation: 147480
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 417
+average reward: 1.02709
+mcst new del 399881 399881
+ct new del 6372063236 6371214739
+cycle: 407
+observation: 147864
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 419
+average reward: 1.02948
+mcst new del 400970 400970
+ct new del 6389189824 6388338939
+cycle: 408
+observation: 148890
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.03186
+mcst new del 402105 402105
+ct new del 6406294848 6405441433
+cycle: 409
+observation: 148890
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.02934
+mcst new del 403214 403214
+ct new del 6423394092 6422538293
+cycle: 410
+observation: 148890
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 421
+average reward: 1.02683
+mcst new del 403214 403214
+ct new del 6423396470 6422538293
+cycle: 411
+observation: 148890
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.02433
+mcst new del 404318 404318
+ct new del 6440373668 6439513225
+cycle: 412
+observation: 148890
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.1
+total reward: 421
+average reward: 1.02184
+mcst new del 404318 404318
+ct new del 6440374980 6439513225
+cycle: 413
+observation: 148890
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.01937
+mcst new del 405429 405429
+ct new del 6457284196 6456421121
+cycle: 414
+observation: 148890
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 421
+average reward: 1.01691
+mcst new del 405429 405429
+ct new del 6457286400 6456421121
+cycle: 415
+observation: 148890
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.01446
+mcst new del 406598 406598
+ct new del 6474114798 6473248143
+cycle: 416
+observation: 148890
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 421
+average reward: 1.01202
+mcst new del 407715 407715
+ct new del 6490940984 6490073123
+cycle: 417
+observation: 0
+reward: 4
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 425
+average reward: 1.01918
+mcst new del 408837 408837
+ct new del 6507641608 6506771931
+cycle: 418
+observation: 131088
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 427
+average reward: 1.02153
+mcst new del 409962 409962
+ct new del 6524410800 6523540251
+cycle: 419
+observation: 135696
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 429
+average reward: 1.02387
+mcst new del 411157 411157
+ct new del 6541471016 6540598157
+cycle: 420
+observation: 135696
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 429
+average reward: 1.02143
+mcst new del 412290 412290
+ct new del 6558545974 6557670839
+cycle: 421
+observation: 135828
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 431
+average reward: 1.02375
+mcst new del 413445 413445
+ct new del 6575522222 6574644721
+cycle: 422
+observation: 135828
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 431
+average reward: 1.02133
+mcst new del 414553 414553
+ct new del 6592583922 6591704123
+cycle: 423
+observation: 135828
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 431
+average reward: 1.01891
+mcst new del 414553 414553
+ct new del 6592586156 6591704123
+cycle: 424
+observation: 135828
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 431
+average reward: 1.01651
+mcst new del 415708 415708
+ct new del 6609573280 6608688999
+cycle: 425
+observation: 135828
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 431
+average reward: 1.01412
+mcst new del 416828 416828
+ct new del 6626469772 6625583233
+cycle: 426
+observation: 0
+reward: 4
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 435
+average reward: 1.02113
+mcst new del 417992 417992
+ct new del 6643270820 6642382557
+cycle: 427
+observation: 131136
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 437
+average reward: 1.02342
+mcst new del 419068 419068
+ct new del 6660032996 6659143321
+cycle: 428
+observation: 137280
+reward: 2
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 439
+average reward: 1.0257
+mcst new del 420185 420185
+ct new del 6677087174 6676195567
+cycle: 429
+observation: 137280
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 439
+average reward: 1.02331
+mcst new del 421307 421307
+ct new del 6694142690 6693248807
+cycle: 430
+observation: 154176
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 441
+average reward: 1.02558
+mcst new del 422408 422408
+ct new del 6711248386 6710352115
+cycle: 431
+observation: 154176
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 441
+average reward: 1.0232
+mcst new del 423512 423512
+ct new del 6728246544 6727347941
+cycle: 432
+observation: 154176
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 441
+average reward: 1.02083
+mcst new del 424598 424598
+ct new del 6745327710 6744426859
+cycle: 433
+observation: 154176
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 441
+average reward: 1.01848
+mcst new del 425742 425742
+ct new del 6762364382 6761461235
+cycle: 434
+observation: 154176
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 441
+average reward: 1.01613
+mcst new del 426902 426902
+ct new del 6779355832 6778450449
+cycle: 435
+observation: 0
+reward: 1
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 442
+average reward: 1.01609
+mcst new del 428040 428040
+ct new del 6796010448 6795103145
+cycle: 436
+observation: 131076
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 444
+average reward: 1.01835
+mcst new del 429144 429144
+ct new del 6812779778 6811871451
+cycle: 437
+observation: 132228
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 446
+average reward: 1.02059
+mcst new del 430247 430247
+ct new del 6829649514 6828738869
+cycle: 438
+observation: 132228
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 446
+average reward: 1.01826
+mcst new del 431382 431382
+ct new del 6846585002 6845672151
+cycle: 439
+observation: 136326
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 448
+average reward: 1.0205
+mcst new del 432525 432525
+ct new del 6863495428 6862580235
+cycle: 440
+observation: 136326
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 448
+average reward: 1.01818
+mcst new del 433639 433639
+ct new del 6880450116 6879532623
+cycle: 441
+observation: 0
+reward: 1
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 449
+average reward: 1.01814
+mcst new del 434798 434798
+ct new del 6897142822 6896223241
+cycle: 442
+observation: 131088
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 451
+average reward: 1.02036
+mcst new del 435918 435918
+ct new del 6913749264 6912828421
+cycle: 443
+observation: 131088
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 451
+average reward: 1.01806
+mcst new del 437052 437052
+ct new del 6930730078 6929807107
+cycle: 444
+observation: 131088
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 451
+average reward: 1.01577
+mcst new del 438184 438184
+ct new del 6947651870 6946726773
+cycle: 445
+observation: 131346
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 453
+average reward: 1.01798
+mcst new del 439269 439269
+ct new del 6964373340 6963446983
+cycle: 446
+observation: 131346
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 453
+average reward: 1.0157
+mcst new del 440440 440440
+ct new del 6981089120 6980160473
+cycle: 447
+observation: 131346
+reward: 0
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 453
+average reward: 1.01342
+mcst new del 441582 441582
+ct new del 6998016542 6997085687
+cycle: 448
+observation: 131478
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.01562
+mcst new del 442744 442744
+ct new del 7015061702 7014128361
+cycle: 449
+observation: 131478
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.01336
+mcst new del 443890 443890
+ct new del 7032079072 7031143351
+cycle: 450
+observation: 131478
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.01111
+mcst new del 445039 445039
+ct new del 7048899298 7047961383
+cycle: 451
+observation: 131478
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.00887
+mcst new del 446152 446152
+ct new del 7065610622 7064671505
+cycle: 452
+observation: 131478
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.00664
+mcst new del 447259 447259
+ct new del 7082492980 7081551537
+cycle: 453
+observation: 131478
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.00442
+mcst new del 448376 448376
+ct new del 7099294522 7098350715
+cycle: 454
+observation: 131478
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1.0022
+mcst new del 449495 449495
+ct new del 7116034206 7115089033
+cycle: 455
+observation: 131478
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 1
+mcst new del 450611 450611
+ct new del 7132872336 7131924903
+cycle: 456
+observation: 131478
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 455
+average reward: 0.997807
+mcst new del 451761 451761
+ct new del 7149650912 7148702023
+cycle: 457
+observation: 165270
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 1
+mcst new del 452844 452844
+ct new del 7166625702 7165674305
+cycle: 458
+observation: 165270
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.997817
+mcst new del 453967 453967
+ct new del 7183622486 7182668689
+cycle: 459
+observation: 165270
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.995643
+mcst new del 455089 455089
+ct new del 7200424612 7199468637
+cycle: 460
+observation: 165270
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.993478
+mcst new del 456201 456201
+ct new del 7217378512 7216420221
+cycle: 461
+observation: 165270
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.991323
+mcst new del 457298 457298
+ct new del 7234252650 7233292121
+cycle: 462
+observation: 165270
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.989177
+mcst new del 458429 458429
+ct new del 7251049510 7250087581
+cycle: 463
+observation: 165270
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 457
+average reward: 0.987041
+mcst new del 459554 459554
+ct new del 7267878546 7266915231
+cycle: 464
+observation: 0
+reward: 4
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 461
+average reward: 0.993534
+mcst new del 460694 460694
+ct new del 7284817684 7283852275
+cycle: 465
+observation: 132096
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 463
+average reward: 0.995699
+mcst new del 461803 461803
+ct new del 7301751938 7300784251
+cycle: 466
+observation: 165120
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 465
+average reward: 0.997854
+mcst new del 462871 462871
+ct new del 7318779120 7317809129
+cycle: 467
+observation: 0
+reward: 1
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 466
+average reward: 0.997859
+mcst new del 463962 463962
+ct new del 7335486976 7334514871
+cycle: 468
+observation: 131328
+reward: 2
+action: 7
+explored: no
+explore rate: 0.1
+total reward: 468
+average reward: 1
+mcst new del 465061 465061
+ct new del 7352296824 7351323241
+cycle: 469
+observation: 131364
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 470
+average reward: 1.00213
+mcst new del 466273 466273
+ct new del 7369193220 7368217297
+cycle: 470
+observation: 131364
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 470
+average reward: 1
+mcst new del 467390 467390
+ct new del 7386175768 7385197517
+cycle: 471
+observation: 131430
+reward: 2
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 1.00212
+mcst new del 468517 468517
+ct new del 7403039068 7402058405
+cycle: 472
+observation: 131430
+reward: 0
+action: 4
+explored: yes
+explore rate: 0.1
+total reward: 472
+average reward: 1
+mcst new del 468517 468517
+ct new del 7403041376 7402058405
+cycle: 473
+observation: 131430
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.1
+total reward: 472
+average reward: 0.997886
+mcst new del 468517 468517
+ct new del 7403043628 7402058405
+cycle: 474
+observation: 131430
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.995781
+mcst new del 469599 469599
+ct new del 7419866028 7418878543
+cycle: 475
+observation: 131430
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.993684
+mcst new del 470737 470737
+ct new del 7436434150 7435445415
+cycle: 476
+observation: 131430
+reward: 0
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.991597
+mcst new del 471879 471879
+ct new del 7453229194 7452238337
+cycle: 477
+observation: 131430
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.989518
+mcst new del 472984 472984
+ct new del 7470032016 7469039961
+cycle: 478
+observation: 131430
+reward: 0
+action: 8
+explored: yes
+explore rate: 0.1
+total reward: 472
+average reward: 0.987448
+mcst new del 472984 472984
+ct new del 7470034272 7469039961
+cycle: 479
+observation: 131430
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.985386
+mcst new del 474118 474118
+ct new del 7486905540 7485909785
+cycle: 480
+observation: 131430
+reward: 0
+action: 1
+explored: no
+explore rate: 0.1
+total reward: 472
+average reward: 0.983333
+mcst new del 475243 475243
+ct new del 7503741068 7502743483
+cycle: 481
+observation: 0
+reward: 4
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 476
+average reward: 0.989605
+mcst new del 476351 476351
+ct new del 7520317318 7519317891
+cycle: 482
+observation: 135168
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 478
+average reward: 0.991701
+mcst new del 477457 477457
+ct new del 7536402086 7535401959
+cycle: 483
+observation: 135168
+reward: 0
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 478
+average reward: 0.989648
+mcst new del 478592 478592
+ct new del 7553154614 7552154221
+cycle: 484
+observation: 136194
+reward: 2
+action: 4
+explored: no
+explore rate: 0.1
+total reward: 480
+average reward: 0.991736
+mcst new del 479750 479750
+ct new del 7570082804 7569080133
+cycle: 485
+observation: 136578
+reward: 2
+action: 5
+explored: yes
+explore rate: 0.1
+total reward: 482
+average reward: 0.993814
+mcst new del 479750 479750
+ct new del 7570085276 7569080133
+cycle: 486
+observation: 136578
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 482
+average reward: 0.99177
+mcst new del 480910 480910
+ct new del 7586881770 7585874301
+cycle: 487
+observation: 136578
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 482
+average reward: 0.989733
+mcst new del 482011 482011
+ct new del 7603694070 7602684363
+cycle: 488
+observation: 136578
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 482
+average reward: 0.987705
+mcst new del 483125 483125
+ct new del 7620504766 7619492701
+cycle: 489
+observation: 136578
+reward: 0
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 482
+average reward: 0.985685
+mcst new del 484269 484269
+ct new del 7637106902 7636092597
+cycle: 490
+observation: 136578
+reward: 0
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 482
+average reward: 0.983673
+mcst new del 485427 485427
+ct new del 7653822544 7652806873
+cycle: 491
+observation: 0
+reward: 4
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 486
+average reward: 0.989817
+mcst new del 486527 486527
+ct new del 7670414038 7669396557
+cycle: 492
+observation: 131073
+reward: 2
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 488
+average reward: 0.99187
+mcst new del 487653 487653
+ct new del 7686845090 7685826459
+cycle: 493
+observation: 135177
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 490
+average reward: 0.993915
+mcst new del 488825 488825
+ct new del 7703552904 7702532349
+cycle: 494
+observation: 135177
+reward: 0
+action: 5
+explored: no
+explore rate: 0.1
+total reward: 490
+average reward: 0.991903
+mcst new del 489965 489965
+ct new del 7720417842 7719395857
+cycle: 495
+observation: 0
+reward: 4
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 494
+average reward: 0.99798
+mcst new del 491117 491117
+ct new del 7737061610 7736037777
+cycle: 496
+observation: 132096
+reward: 2
+action: 3
+explored: no
+explore rate: 0.1
+total reward: 496
+average reward: 1
+mcst new del 492249 492249
+ct new del 7753826656 7752801427
+cycle: 497
+observation: 132096
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 496
+average reward: 0.997988
+mcst new del 493383 493383
+ct new del 7770557458 7769530031
+cycle: 498
+observation: 136224
+reward: 2
+action: 6
+explored: no
+explore rate: 0.1
+total reward: 498
+average reward: 1
+mcst new del 494606 494606
+ct new del 7787442116 7786412591
+cycle: 499
+observation: 136224
+reward: 0
+action: 2
+explored: no
+explore rate: 0.1
+total reward: 498
+average reward: 0.997996
+mcst new del 495732 495732
+ct new del 7804248182 7803216363
+cycle: 500
+observation: 136224
+reward: 0
+action: 8
+explored: no
+explore rate: 0.1
+total reward: 498
+average reward: 0.996
+mcst new del 496834 496834
+ct new del 7820962972 7819929103
+cycle: 501
+observation: 168993
+reward: 2
+action: 0
+explored: no
+explore rate: 0.1
+total reward: 500
+average reward: 0.998004
+mcst new del 498050 498050
+ct new del 7837741610 7836705403
+info: terminating lifetiment

@@ -1,0 +1,81 @@
+OPTION: 'environment' = 'tictactoe'
+OPTION: 'exploration' = '0'
+OPTION: 'explore-decay' = '1'
+OPTION: 'terminate-lifetime' = '5000'
+cycle: 1
+average reward: 0
+explore rate: 0
+history size: 25
+cycle: 2
+average reward: 1
+explore rate: 0
+history size: 50
+cycle: 4
+average reward: 1
+explore rate: 0
+history size: 100
+cycle: 8
+average reward: 0.75
+explore rate: 0
+history size: 200
+cycle: 16
+average reward: 1.0625
+explore rate: 0
+history size: 400
+cycle: 32
+average reward: 0.78125
+explore rate: 0
+history size: 800
+cycle: 64
+average reward: 0.875
+explore rate: 0
+history size: 1600
+cycle: 128
+average reward: 1.09375
+explore rate: 0
+history size: 3200
+cycle: 256
+average reward: 1.05469
+explore rate: 0
+history size: 6400
+cycle: 512
+average reward: 1.02344
+explore rate: 0
+history size: 12800
+cycle: 1024
+average reward: 0.986328
+explore rate: 0
+history size: 25600
+cycle: 1536
+average reward: 0.93099
+explore rate: 0
+history size: 38400
+cycle: 2048
+average reward: 0.922363
+explore rate: 0
+history size: 51200
+cycle: 2560
+average reward: 0.952734
+explore rate: 0
+history size: 64000
+cycle: 3072
+average reward: 0.947591
+explore rate: 0
+history size: 76800
+cycle: 3584
+average reward: 0.945033
+explore rate: 0
+history size: 89600
+cycle: 4096
+average reward: 0.942383
+explore rate: 0
+history size: 102400
+cycle: 4608
+average reward: 0.930122
+explore rate: 0
+history size: 115200
+
+
+SUMMARY
+agent lifetime: 5001
+average reward: 0.932014

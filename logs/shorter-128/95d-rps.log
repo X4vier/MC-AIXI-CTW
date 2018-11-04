@@ -1,0 +1,320 @@
+cycle: 1
+observation: 1
+reward: 0
+action: 1
+explored: yes
+explore rate: 1
+total reward: 0
+average reward: 0
+cycle: 2
+observation: 2
+reward: 0
+action: 0
+explored: no
+explore rate: 0.95
+total reward: 0
+average reward: 0
+cycle: 3
+observation: 1
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.9025
+total reward: 0
+average reward: 0
+cycle: 4
+observation: 0
+reward: 1
+action: 1
+explored: no
+explore rate: 0.857375
+total reward: 1
+average reward: 0.25
+cycle: 5
+observation: 2
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.814506
+total reward: 1
+average reward: 0.2
+cycle: 6
+observation: 1
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.773781
+total reward: 1
+average reward: 0.166667
+cycle: 7
+observation: 2
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.735092
+total reward: 3
+average reward: 0.428571
+cycle: 8
+observation: 2
+reward: 1
+action: 2
+explored: yes
+explore rate: 0.698337
+total reward: 4
+average reward: 0.5
+cycle: 9
+observation: 0
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.66342
+total reward: 4
+average reward: 0.444444
+cycle: 10
+observation: 0
+reward: 2
+action: 1
+explored: no
+explore rate: 0.630249
+total reward: 6
+average reward: 0.6
+cycle: 11
+observation: 0
+reward: 2
+action: 0
+explored: yes
+explore rate: 0.598737
+total reward: 8
+average reward: 0.727273
+cycle: 12
+observation: 2
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.5688
+total reward: 10
+average reward: 0.833333
+cycle: 13
+observation: 0
+reward: 0
+action: 2
+explored: no
+explore rate: 0.54036
+total reward: 10
+average reward: 0.769231
+cycle: 14
+observation: 0
+reward: 0
+action: 1
+explored: yes
+explore rate: 0.513342
+total reward: 10
+average reward: 0.714286
+cycle: 15
+observation: 0
+reward: 2
+action: 1
+explored: yes
+explore rate: 0.487675
+total reward: 12
+average reward: 0.8
+cycle: 16
+observation: 1
+reward: 1
+action: 2
+explored: no
+explore rate: 0.463291
+total reward: 13
+average reward: 0.8125
+cycle: 17
+observation: 0
+reward: 0
+action: 0
+explored: no
+explore rate: 0.440127
+total reward: 13
+average reward: 0.764706
+cycle: 18
+observation: 0
+reward: 1
+action: 2
+explored: no
+explore rate: 0.41812
+total reward: 14
+average reward: 0.777778
+cycle: 19
+observation: 0
+reward: 0
+action: 1
+explored: no
+explore rate: 0.397214
+total reward: 14
+average reward: 0.736842
+cycle: 20
+observation: 0
+reward: 2
+action: 2
+explored: no
+explore rate: 0.377354
+total reward: 16
+average reward: 0.8
+cycle: 21
+observation: 2
+reward: 1
+action: 0
+explored: no
+explore rate: 0.358486
+total reward: 17
+average reward: 0.809524
+cycle: 22
+observation: 1
+reward: 0
+action: 2
+explored: no
+explore rate: 0.340562
+total reward: 17
+average reward: 0.772727
+cycle: 23
+observation: 1
+reward: 2
+action: 1
+explored: no
+explore rate: 0.323534
+total reward: 19
+average reward: 0.826087
+cycle: 24
+observation: 0
+reward: 2
+action: 2
+explored: yes
+explore rate: 0.307357
+total reward: 21
+average reward: 0.875
+cycle: 25
+observation: 2
+reward: 1
+action: 2
+explored: no
+explore rate: 0.291989
+total reward: 22
+average reward: 0.88
+cycle: 26
+observation: 2
+reward: 1
+action: 1
+explored: no
+explore rate: 0.27739
+total reward: 23
+average reward: 0.884615
+cycle: 27
+observation: 1
+reward: 1
+action: 0
+explored: yes
+explore rate: 0.26352
+total reward: 24
+average reward: 0.888889
+cycle: 28
+observation: 2
+reward: 2
+action: 0
+explored: yes
+explore rate: 0.250344
+total reward: 26
+average reward: 0.928571
+cycle: 29
+observation: 1
+reward: 0
+action: 1
+explored: no
+explore rate: 0.237827
+total reward: 26
+average reward: 0.896552
+cycle: 30
+observation: 1
+reward: 1
+action: 2
+explored: no
+explore rate: 0.225936
+total reward: 27
+average reward: 0.9
+cycle: 31
+observation: 0
+reward: 0
+action: 2
+explored: no
+explore rate: 0.214639
+total reward: 27
+average reward: 0.870968
+cycle: 32
+observation: 0
+reward: 0
+action: 1
+explored: no
+explore rate: 0.203907
+total reward: 27
+average reward: 0.84375
+cycle: 33
+observation: 0
+reward: 2
+action: 1
+explored: no
+explore rate: 0.193711
+total reward: 29
+average reward: 0.878788
+cycle: 34
+observation: 2
+reward: 0
+action: 0
+explored: yes
+explore rate: 0.184026
+total reward: 29
+average reward: 0.852941
+cycle: 35
+observation: 1
+reward: 0
+action: 1
+explored: no
+explore rate: 0.174825
+total reward: 29
+average reward: 0.828571
+cycle: 36
+observation: 1
+reward: 1
+action: 1
+explored: no
+explore rate: 0.166083
+total reward: 30
+average reward: 0.833333
+cycle: 37
+observation: 2
+reward: 0
+action: 2
+explored: no
+explore rate: 0.157779
+total reward: 30
+average reward: 0.810811
+cycle: 38
+observation: 0
+reward: 0
+action: 2
+explored: no
+explore rate: 0.14989
+total reward: 30
+average reward: 0.789474
+cycle: 39
+observation: 0
+reward: 0
+action: 1
+explored: no
+explore rate: 0.142396
+total reward: 30
+average reward: 0.769231
+cycle: 40
+observation: 0
+reward: 2
+action: 2
+explored: no
+explore rate: 0.135276
+total reward: 32
+average reward: 0.8

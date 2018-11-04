@@ -1,0 +1,123 @@
+OPTION: 'environment' = 'cheese-maze'
+OPTION: 'exploration' = '1'
+OPTION: 'explore-decay' = '0.95'
+OPTION: 'terminate-lifetime' = '10000'
+OPTION: 'ct-depth' = '16'
+OPTION: 'agent-horizon' = '4'
+cycle: 1
+average reward: 0
+explore rate: 1
+history size: 11
+cycle: 2
+average reward: 9
+explore rate: 0.95
+history size: 22
+cycle: 4
+average reward: 9
+explore rate: 0.857375
+history size: 44
+cycle: 8
+average reward: 6.42857
+explore rate: 0.698337
+history size: 88
+cycle: 16
+average reward: 4.2
+explore rate: 0.463291
+history size: 176
+cycle: 32
+average reward: 2.90323
+explore rate: 0.203907
+history size: 352
+cycle: 64
+average reward: 4
+explore rate: 0.0394991
+history size: 704
+cycle: 128
+average reward: 5.10236
+explore rate: 0.00148217
+history size: 1408
+cycle: 256
+average reward: 6.22353
+explore rate: 2.08699e-06
+history size: 2816
+cycle: 512
+average reward: 6.23483
+explore rate: 4.13773e-12
+history size: 5632
+cycle: 1024
+average reward: 6.8915
+explore rate: 1.62648e-23
+history size: 11264
+cycle: 1536
+average reward: 7.30619
+explore rate: 6.39343e-35
+history size: 16896
+cycle: 2048
+average reward: 7.52907
+explore rate: 2.51316e-46
+history size: 22528
+cycle: 2560
+average reward: 7.72802
+explore rate: 9.87884e-58
+history size: 28160
+cycle: 3072
+average reward: 7.80528
+explore rate: 3.88322e-69
+history size: 33792
+cycle: 3584
+average reward: 7.80938
+explore rate: 1.52643e-80
+history size: 39424
+cycle: 4096
+average reward: 7.85885
+explore rate: 6.00017e-92
+history size: 45056
+cycle: 4608
+average reward: 7.91947
+explore rate: 2.35857e-103
+history size: 50688
+cycle: 5120
+average reward: 7.97695
+explore rate: 9.27119e-115
+history size: 56320
+cycle: 5632
+average reward: 8.03694
+explore rate: 3.64436e-126
+history size: 61952
+cycle: 6144
+average reward: 8.09328
+explore rate: 1.43254e-137
+history size: 67584
+cycle: 6656
+average reward: 8.1405
+explore rate: 5.6311e-149
+history size: 73216
+cycle: 7168
+average reward: 8.15976
+explore rate: 2.2135e-160
+history size: 78848
+cycle: 7680
+average reward: 8.18192
+explore rate: 8.70092e-172
+history size: 84480
+cycle: 8192
+average reward: 8.20022
+explore rate: 3.4202e-183
+history size: 90112
+cycle: 8704
+average reward: 8.2182
+explore rate: 1.34443e-194
+history size: 95744
+cycle: 9216
+average reward: 8.2344
+explore rate: 5.28473e-206
+history size: 101376
+cycle: 9728
+average reward: 8.23409
+explore rate: 2.07735e-217
+history size: 107008
+
+
+SUMMARY
+agent lifetime: 10001
+average reward: 8.2421
